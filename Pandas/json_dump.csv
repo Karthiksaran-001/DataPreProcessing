@@ -1,0 +1,1054 @@
+url,repository_url,labels_url,comments_url,events_url,html_url,id,node_id,number,title,user,labels,state,locked,assignee,assignees,milestone,comments,created_at,updated_at,closed_at,author_association,active_lock_reason,pull_request,body,performed_via_github_app
+https://api.github.com/repos/pandas-dev/pandas/issues/41896,https://api.github.com/repos/pandas-dev/pandas,https://api.github.com/repos/pandas-dev/pandas/issues/41896/labels{/name},https://api.github.com/repos/pandas-dev/pandas/issues/41896/comments,https://api.github.com/repos/pandas-dev/pandas/issues/41896/events,https://github.com/pandas-dev/pandas/pull/41896,916247513,MDExOlB1bGxSZXF1ZXN0NjY1OTQ2Mjky,41896,TYP: use from __future__ import annotations more - batch 4,"{'login': 'simonjayhawkins', 'id': 13159005, 'node_id': 'MDQ6VXNlcjEzMTU5MDA1', 'avatar_url': 'https://avatars.githubusercontent.com/u/13159005?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/simonjayhawkins', 'html_url': 'https://github.com/simonjayhawkins', 'followers_url': 'https://api.github.com/users/simonjayhawkins/followers', 'following_url': 'https://api.github.com/users/simonjayhawkins/following{/other_user}', 'gists_url': 'https://api.github.com/users/simonjayhawkins/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/simonjayhawkins/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/simonjayhawkins/subscriptions', 'organizations_url': 'https://api.github.com/users/simonjayhawkins/orgs', 'repos_url': 'https://api.github.com/users/simonjayhawkins/repos', 'events_url': 'https://api.github.com/users/simonjayhawkins/events{/privacy}', 'received_events_url': 'https://api.github.com/users/simonjayhawkins/received_events', 'type': 'User', 'site_admin': False}","[{'id': 1280988427, 'node_id': 'MDU6TGFiZWwxMjgwOTg4NDI3', 'url': 'https://api.github.com/repos/pandas-dev/pandas/labels/Typing', 'name': 'Typing', 'color': 'ea91a4', 'default': False, 'description': 'mypy type annotations'}]",open,False,,[],"{'url': 'https://api.github.com/repos/pandas-dev/pandas/milestones/80', 'html_url': 'https://github.com/pandas-dev/pandas/milestone/80', 'labels_url': 'https://api.github.com/repos/pandas-dev/pandas/milestones/80/labels', 'id': 6095818, 'node_id': 'MDk6TWlsZXN0b25lNjA5NTgxOA==', 'number': 80, 'title': '1.3', 'description': '', 'creator': {'login': 'jreback', 'id': 953992, 'node_id': 'MDQ6VXNlcjk1Mzk5Mg==', 'avatar_url': 'https://avatars.githubusercontent.com/u/953992?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/jreback', 'html_url': 'https://github.com/jreback', 'followers_url': 'https://api.github.com/users/jreback/followers', 'following_url': 'https://api.github.com/users/jreback/following{/other_user}', 'gists_url': 'https://api.github.com/users/jreback/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/jreback/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/jreback/subscriptions', 'organizations_url': 'https://api.github.com/users/jreback/orgs', 'repos_url': 'https://api.github.com/users/jreback/repos', 'events_url': 'https://api.github.com/users/jreback/events{/privacy}', 'received_events_url': 'https://api.github.com/users/jreback/received_events', 'type': 'User', 'site_admin': False}, 'open_issues': 47, 'closed_issues': 2156, 'state': 'open', 'created_at': '2020-11-11T19:05:43Z', 'updated_at': '2021-06-09T14:13:42Z', 'due_on': '2021-05-31T07:00:00Z', 'closed_at': None}",0,2021-06-09T14:05:51Z,2021-06-09T14:05:51Z,,MEMBER,,"{'url': 'https://api.github.com/repos/pandas-dev/pandas/pulls/41896', 'html_url': 'https://github.com/pandas-dev/pandas/pull/41896', 'diff_url': 'https://github.com/pandas-dev/pandas/pull/41896.diff', 'patch_url': 'https://github.com/pandas-dev/pandas/pull/41896.patch'}",,
+https://api.github.com/repos/pandas-dev/pandas/issues/41895,https://api.github.com/repos/pandas-dev/pandas,https://api.github.com/repos/pandas-dev/pandas/issues/41895/labels{/name},https://api.github.com/repos/pandas-dev/pandas/issues/41895/comments,https://api.github.com/repos/pandas-dev/pandas/issues/41895/events,https://github.com/pandas-dev/pandas/pull/41895,916211690,MDExOlB1bGxSZXF1ZXN0NjY1OTE1NDEw,41895,TYP: use from __future__ import annotations more - batch 3,"{'login': 'simonjayhawkins', 'id': 13159005, 'node_id': 'MDQ6VXNlcjEzMTU5MDA1', 'avatar_url': 'https://avatars.githubusercontent.com/u/13159005?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/simonjayhawkins', 'html_url': 'https://github.com/simonjayhawkins', 'followers_url': 'https://api.github.com/users/simonjayhawkins/followers', 'following_url': 'https://api.github.com/users/simonjayhawkins/following{/other_user}', 'gists_url': 'https://api.github.com/users/simonjayhawkins/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/simonjayhawkins/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/simonjayhawkins/subscriptions', 'organizations_url': 'https://api.github.com/users/simonjayhawkins/orgs', 'repos_url': 'https://api.github.com/users/simonjayhawkins/repos', 'events_url': 'https://api.github.com/users/simonjayhawkins/events{/privacy}', 'received_events_url': 'https://api.github.com/users/simonjayhawkins/received_events', 'type': 'User', 'site_admin': False}","[{'id': 1280988427, 'node_id': 'MDU6TGFiZWwxMjgwOTg4NDI3', 'url': 'https://api.github.com/repos/pandas-dev/pandas/labels/Typing', 'name': 'Typing', 'color': 'ea91a4', 'default': False, 'description': 'mypy type annotations'}]",open,False,,[],"{'url': 'https://api.github.com/repos/pandas-dev/pandas/milestones/80', 'html_url': 'https://github.com/pandas-dev/pandas/milestone/80', 'labels_url': 'https://api.github.com/repos/pandas-dev/pandas/milestones/80/labels', 'id': 6095818, 'node_id': 'MDk6TWlsZXN0b25lNjA5NTgxOA==', 'number': 80, 'title': '1.3', 'description': '', 'creator': {'login': 'jreback', 'id': 953992, 'node_id': 'MDQ6VXNlcjk1Mzk5Mg==', 'avatar_url': 'https://avatars.githubusercontent.com/u/953992?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/jreback', 'html_url': 'https://github.com/jreback', 'followers_url': 'https://api.github.com/users/jreback/followers', 'following_url': 'https://api.github.com/users/jreback/following{/other_user}', 'gists_url': 'https://api.github.com/users/jreback/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/jreback/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/jreback/subscriptions', 'organizations_url': 'https://api.github.com/users/jreback/orgs', 'repos_url': 'https://api.github.com/users/jreback/repos', 'events_url': 'https://api.github.com/users/jreback/events{/privacy}', 'received_events_url': 'https://api.github.com/users/jreback/received_events', 'type': 'User', 'site_admin': False}, 'open_issues': 47, 'closed_issues': 2156, 'state': 'open', 'created_at': '2020-11-11T19:05:43Z', 'updated_at': '2021-06-09T14:13:42Z', 'due_on': '2021-05-31T07:00:00Z', 'closed_at': None}",0,2021-06-09T13:36:59Z,2021-06-09T13:36:59Z,,MEMBER,,"{'url': 'https://api.github.com/repos/pandas-dev/pandas/pulls/41895', 'html_url': 'https://github.com/pandas-dev/pandas/pull/41895', 'diff_url': 'https://github.com/pandas-dev/pandas/pull/41895.diff', 'patch_url': 'https://github.com/pandas-dev/pandas/pull/41895.patch'}",,
+https://api.github.com/repos/pandas-dev/pandas/issues/41894,https://api.github.com/repos/pandas-dev/pandas,https://api.github.com/repos/pandas-dev/pandas/issues/41894/labels{/name},https://api.github.com/repos/pandas-dev/pandas/issues/41894/comments,https://api.github.com/repos/pandas-dev/pandas/issues/41894/events,https://github.com/pandas-dev/pandas/pull/41894,916196748,MDExOlB1bGxSZXF1ZXN0NjY1OTAzMDMy,41894,TYP: use from __future__ import annotations more - batch 2,"{'login': 'simonjayhawkins', 'id': 13159005, 'node_id': 'MDQ6VXNlcjEzMTU5MDA1', 'avatar_url': 'https://avatars.githubusercontent.com/u/13159005?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/simonjayhawkins', 'html_url': 'https://github.com/simonjayhawkins', 'followers_url': 'https://api.github.com/users/simonjayhawkins/followers', 'following_url': 'https://api.github.com/users/simonjayhawkins/following{/other_user}', 'gists_url': 'https://api.github.com/users/simonjayhawkins/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/simonjayhawkins/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/simonjayhawkins/subscriptions', 'organizations_url': 'https://api.github.com/users/simonjayhawkins/orgs', 'repos_url': 'https://api.github.com/users/simonjayhawkins/repos', 'events_url': 'https://api.github.com/users/simonjayhawkins/events{/privacy}', 'received_events_url': 'https://api.github.com/users/simonjayhawkins/received_events', 'type': 'User', 'site_admin': False}","[{'id': 1280988427, 'node_id': 'MDU6TGFiZWwxMjgwOTg4NDI3', 'url': 'https://api.github.com/repos/pandas-dev/pandas/labels/Typing', 'name': 'Typing', 'color': 'ea91a4', 'default': False, 'description': 'mypy type annotations'}]",open,False,,[],"{'url': 'https://api.github.com/repos/pandas-dev/pandas/milestones/80', 'html_url': 'https://github.com/pandas-dev/pandas/milestone/80', 'labels_url': 'https://api.github.com/repos/pandas-dev/pandas/milestones/80/labels', 'id': 6095818, 'node_id': 'MDk6TWlsZXN0b25lNjA5NTgxOA==', 'number': 80, 'title': '1.3', 'description': '', 'creator': {'login': 'jreback', 'id': 953992, 'node_id': 'MDQ6VXNlcjk1Mzk5Mg==', 'avatar_url': 'https://avatars.githubusercontent.com/u/953992?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/jreback', 'html_url': 'https://github.com/jreback', 'followers_url': 'https://api.github.com/users/jreback/followers', 'following_url': 'https://api.github.com/users/jreback/following{/other_user}', 'gists_url': 'https://api.github.com/users/jreback/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/jreback/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/jreback/subscriptions', 'organizations_url': 'https://api.github.com/users/jreback/orgs', 'repos_url': 'https://api.github.com/users/jreback/repos', 'events_url': 'https://api.github.com/users/jreback/events{/privacy}', 'received_events_url': 'https://api.github.com/users/jreback/received_events', 'type': 'User', 'site_admin': False}, 'open_issues': 47, 'closed_issues': 2156, 'state': 'open', 'created_at': '2020-11-11T19:05:43Z', 'updated_at': '2021-06-09T14:13:42Z', 'due_on': '2021-05-31T07:00:00Z', 'closed_at': None}",0,2021-06-09T13:22:34Z,2021-06-09T13:22:34Z,,MEMBER,,"{'url': 'https://api.github.com/repos/pandas-dev/pandas/pulls/41894', 'html_url': 'https://github.com/pandas-dev/pandas/pull/41894', 'diff_url': 'https://github.com/pandas-dev/pandas/pull/41894.diff', 'patch_url': 'https://github.com/pandas-dev/pandas/pull/41894.patch'}",,
+https://api.github.com/repos/pandas-dev/pandas/issues/41893,https://api.github.com/repos/pandas-dev/pandas,https://api.github.com/repos/pandas-dev/pandas/issues/41893/labels{/name},https://api.github.com/repos/pandas-dev/pandas/issues/41893/comments,https://api.github.com/repos/pandas-dev/pandas/issues/41893/events,https://github.com/pandas-dev/pandas/pull/41893,916179291,MDExOlB1bGxSZXF1ZXN0NjY1ODg4NDkw,41893,ENH: `Styler` `apply` and `applymap` over the index instead of the data,"{'login': 'attack68', 'id': 24256554, 'node_id': 'MDQ6VXNlcjI0MjU2NTU0', 'avatar_url': 'https://avatars.githubusercontent.com/u/24256554?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/attack68', 'html_url': 'https://github.com/attack68', 'followers_url': 'https://api.github.com/users/attack68/followers', 'following_url': 'https://api.github.com/users/attack68/following{/other_user}', 'gists_url': 'https://api.github.com/users/attack68/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/attack68/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/attack68/subscriptions', 'organizations_url': 'https://api.github.com/users/attack68/orgs', 'repos_url': 'https://api.github.com/users/attack68/repos', 'events_url': 'https://api.github.com/users/attack68/events{/privacy}', 'received_events_url': 'https://api.github.com/users/attack68/received_events', 'type': 'User', 'site_admin': False}",[],open,False,,[],,0,2021-06-09T13:04:59Z,2021-06-09T14:06:51Z,,CONTRIBUTOR,,"{'url': 'https://api.github.com/repos/pandas-dev/pandas/pulls/41893', 'html_url': 'https://github.com/pandas-dev/pandas/pull/41893', 'diff_url': 'https://github.com/pandas-dev/pandas/pull/41893.diff', 'patch_url': 'https://github.com/pandas-dev/pandas/pull/41893.patch'}","Checks an item on #41648 and #41693 (if follow-ons completed)
+
+Currently Styler has the `apply` and `applymap` methods to **perform conditional styling on the data elements**.
+
+Recent additions to `Styler.set_table_styles` allows styling of index and column headers if the key-labels are directly specified. But this solution cannot work with LaTeX, nor excel output, and is obviously not conditionally applied.
+
+This PR adds the mechanics to **perform conditional styling on per level index labels**
+
+Feedback on the API is appreciated. Instead of new methods `apply_index` and `applymap_index`, these could be incorporated into the `apply` and `applymap` methods with a new kwarg identifying the target for application.
+
+![Screen Shot 2021-06-09 at 15 02 58](https://user-images.githubusercontent.com/24256554/121359514-d9d40d00-c933-11eb-8e9e-0083913c1473.png)
+
+The follow-ons to this include:
+
+- [ ] doing same over column headers.
+- [ ] updating LaTeX templates to incorporate the styles.
+- [ ] updatin Excel output to incorporate the styles.",
+https://api.github.com/repos/pandas-dev/pandas/issues/41892,https://api.github.com/repos/pandas-dev/pandas,https://api.github.com/repos/pandas-dev/pandas/issues/41892/labels{/name},https://api.github.com/repos/pandas-dev/pandas/issues/41892/comments,https://api.github.com/repos/pandas-dev/pandas/issues/41892/events,https://github.com/pandas-dev/pandas/pull/41892,916178687,MDExOlB1bGxSZXF1ZXN0NjY1ODg3OTk2,41892,TYP: use from __future__ import annotations more - batch 1,"{'login': 'simonjayhawkins', 'id': 13159005, 'node_id': 'MDQ6VXNlcjEzMTU5MDA1', 'avatar_url': 'https://avatars.githubusercontent.com/u/13159005?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/simonjayhawkins', 'html_url': 'https://github.com/simonjayhawkins', 'followers_url': 'https://api.github.com/users/simonjayhawkins/followers', 'following_url': 'https://api.github.com/users/simonjayhawkins/following{/other_user}', 'gists_url': 'https://api.github.com/users/simonjayhawkins/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/simonjayhawkins/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/simonjayhawkins/subscriptions', 'organizations_url': 'https://api.github.com/users/simonjayhawkins/orgs', 'repos_url': 'https://api.github.com/users/simonjayhawkins/repos', 'events_url': 'https://api.github.com/users/simonjayhawkins/events{/privacy}', 'received_events_url': 'https://api.github.com/users/simonjayhawkins/received_events', 'type': 'User', 'site_admin': False}","[{'id': 1280988427, 'node_id': 'MDU6TGFiZWwxMjgwOTg4NDI3', 'url': 'https://api.github.com/repos/pandas-dev/pandas/labels/Typing', 'name': 'Typing', 'color': 'ea91a4', 'default': False, 'description': 'mypy type annotations'}]",open,False,,[],"{'url': 'https://api.github.com/repos/pandas-dev/pandas/milestones/80', 'html_url': 'https://github.com/pandas-dev/pandas/milestone/80', 'labels_url': 'https://api.github.com/repos/pandas-dev/pandas/milestones/80/labels', 'id': 6095818, 'node_id': 'MDk6TWlsZXN0b25lNjA5NTgxOA==', 'number': 80, 'title': '1.3', 'description': '', 'creator': {'login': 'jreback', 'id': 953992, 'node_id': 'MDQ6VXNlcjk1Mzk5Mg==', 'avatar_url': 'https://avatars.githubusercontent.com/u/953992?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/jreback', 'html_url': 'https://github.com/jreback', 'followers_url': 'https://api.github.com/users/jreback/followers', 'following_url': 'https://api.github.com/users/jreback/following{/other_user}', 'gists_url': 'https://api.github.com/users/jreback/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/jreback/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/jreback/subscriptions', 'organizations_url': 'https://api.github.com/users/jreback/orgs', 'repos_url': 'https://api.github.com/users/jreback/repos', 'events_url': 'https://api.github.com/users/jreback/events{/privacy}', 'received_events_url': 'https://api.github.com/users/jreback/received_events', 'type': 'User', 'site_admin': False}, 'open_issues': 47, 'closed_issues': 2156, 'state': 'open', 'created_at': '2020-11-11T19:05:43Z', 'updated_at': '2021-06-09T14:13:42Z', 'due_on': '2021-05-31T07:00:00Z', 'closed_at': None}",2,2021-06-09T13:04:27Z,2021-06-09T14:01:45Z,,MEMBER,,"{'url': 'https://api.github.com/repos/pandas-dev/pandas/pulls/41892', 'html_url': 'https://github.com/pandas-dev/pandas/pull/41892', 'diff_url': 'https://github.com/pandas-dev/pandas/pull/41892.diff', 'patch_url': 'https://github.com/pandas-dev/pandas/pull/41892.patch'}","I'm fairly sure that we agreed we would do this but leave it to just before the 1.3 release to reduce the chance of auto backports failing
+",
+https://api.github.com/repos/pandas-dev/pandas/issues/41891,https://api.github.com/repos/pandas-dev/pandas,https://api.github.com/repos/pandas-dev/pandas/issues/41891/labels{/name},https://api.github.com/repos/pandas-dev/pandas/issues/41891/comments,https://api.github.com/repos/pandas-dev/pandas/issues/41891/events,https://github.com/pandas-dev/pandas/issues/41891,915945880,MDU6SXNzdWU5MTU5NDU4ODA=,41891,BUG: Setting column on empty DataFrame with loc / avoiding SettingWithCopyWarning for potentially empty DataFrames/copies/views,"{'login': 'klieret', 'id': 13602468, 'node_id': 'MDQ6VXNlcjEzNjAyNDY4', 'avatar_url': 'https://avatars.githubusercontent.com/u/13602468?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/klieret', 'html_url': 'https://github.com/klieret', 'followers_url': 'https://api.github.com/users/klieret/followers', 'following_url': 'https://api.github.com/users/klieret/following{/other_user}', 'gists_url': 'https://api.github.com/users/klieret/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/klieret/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/klieret/subscriptions', 'organizations_url': 'https://api.github.com/users/klieret/orgs', 'repos_url': 'https://api.github.com/users/klieret/repos', 'events_url': 'https://api.github.com/users/klieret/events{/privacy}', 'received_events_url': 'https://api.github.com/users/klieret/received_events', 'type': 'User', 'site_admin': False}","[{'id': 76811, 'node_id': 'MDU6TGFiZWw3NjgxMQ==', 'url': 'https://api.github.com/repos/pandas-dev/pandas/labels/Bug', 'name': 'Bug', 'color': 'e10c02', 'default': False, 'description': None}, {'id': 1954720290, 'node_id': 'MDU6TGFiZWwxOTU0NzIwMjkw', 'url': 'https://api.github.com/repos/pandas-dev/pandas/labels/Needs%20Triage', 'name': 'Needs Triage', 'color': '0052cc', 'default': False, 'description': 'Issue that has not been reviewed by a pandas team member'}]",open,False,,[],,2,2021-06-09T08:39:01Z,2021-06-09T14:16:55Z,,CONTRIBUTOR,,,"- [x] I have checked that this issue has not already been reported.
+
+- [x] I have confirmed this bug exists on the latest version of pandas.
+
+- [ ] (optional) I have confirmed this bug exists on the master branch of pandas.
+
+#### Code Sample, a copy-pastable example
+
+```python
+import pandas as pd
+
+
+df = pd.DataFrame()
+
+# Option 1: works on empty dataframes, but shows the SettingWithCopyWarning for non-empty views/copies
+df[""a""] = 1
+
+# Option 2: works without warning for views/copies but raises ValueError on empty dataframe
+df.loc[:, ""a""] = 1
+```
+
+#### Problem description
+
+Let's consider a function `add_column` that adds a column. 
+
+* If we use `df[column] = value` (Option 1), then the function will throw the `SettingWithCopyWarning` whenever it is called on a copy/view (even if we don't care about propagating the change to the original dataframe). 
+* The workaround for this warning is to use `df.loc[:, column] = value` (Option 2). However this throws, as soon as the dataframe is empty, i.e. doesn't contain any rows
+
+This then requires ugly solutions like the following
+
+```python
+def add_column(df):
+    if df.empty:
+        # Still want to make sure to add the column to avoid KeyErrors later
+        df[""column""] = 1  # doesn't show SettingWithCopyWarning
+        return
+    df.loc[:, ""column""] = 1
+```
+
+whenever we might be dealing with dataframes or their copies/views that are possibly empty. 
+
+<details>
+
+INSTALLED VERSIONS
+------------------
+commit           : 2cb96529396d93b46abab7bbc73a208e708c642e
+python           : 3.7.5.final.0
+python-bits      : 64
+OS               : Linux
+OS-release       : 5.3.0-64-generic
+Version          : #58-Ubuntu SMP Fri Jul 10 19:33:51 UTC 2020
+machine          : x86_64
+processor        : x86_64
+byteorder        : little
+LC_ALL           : None
+LANG             : en_US.UTF-8
+LOCALE           : en_US.UTF-8
+
+pandas           : 1.2.4
+numpy            : 1.18.1
+pytz             : 2019.2
+dateutil         : 2.7.3
+pip              : 20.3.3
+setuptools       : 41.1.0
+Cython           : None
+pytest           : 5.3.2
+hypothesis       : None
+sphinx           : 3.0.0
+blosc            : None
+feather          : None
+xlsxwriter       : None
+lxml.etree       : 4.5.0
+html5lib         : None
+pymysql          : None
+psycopg2         : None
+jinja2           : 2.10.3
+IPython          : 5.8.0
+pandas_datareader: None
+bs4              : 4.9.1
+bottleneck       : None
+fsspec           : 0.7.4
+fastparquet      : None
+gcsfs            : None
+matplotlib       : 3.4.2
+numexpr          : 2.7.1
+odfpy            : None
+openpyxl         : None
+pandas_gbq       : None
+pyarrow          : 3.0.0
+pyxlsb           : None
+s3fs             : None
+scipy            : 1.4.1
+sqlalchemy       : 1.3.16
+tables           : 3.6.1
+tabulate         : 0.8.7
+xarray           : 0.17.0
+xlrd             : 2.0.1
+xlwt             : None
+numba            : 0.51.2
+
+
+</details>
+",
+https://api.github.com/repos/pandas-dev/pandas/issues/41890,https://api.github.com/repos/pandas-dev/pandas,https://api.github.com/repos/pandas-dev/pandas/issues/41890/labels{/name},https://api.github.com/repos/pandas-dev/pandas/issues/41890/comments,https://api.github.com/repos/pandas-dev/pandas/issues/41890/events,https://github.com/pandas-dev/pandas/pull/41890,915877582,MDExOlB1bGxSZXF1ZXN0NjY1NjM0NzEy,41890,"ENH: Add `drop_na` keyword to ""to_json()"" function","{'login': 'romanhaa', 'id': 18103560, 'node_id': 'MDQ6VXNlcjE4MTAzNTYw', 'avatar_url': 'https://avatars.githubusercontent.com/u/18103560?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/romanhaa', 'html_url': 'https://github.com/romanhaa', 'followers_url': 'https://api.github.com/users/romanhaa/followers', 'following_url': 'https://api.github.com/users/romanhaa/following{/other_user}', 'gists_url': 'https://api.github.com/users/romanhaa/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/romanhaa/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/romanhaa/subscriptions', 'organizations_url': 'https://api.github.com/users/romanhaa/orgs', 'repos_url': 'https://api.github.com/users/romanhaa/repos', 'events_url': 'https://api.github.com/users/romanhaa/events{/privacy}', 'received_events_url': 'https://api.github.com/users/romanhaa/received_events', 'type': 'User', 'site_admin': False}",[],open,False,,[],,5,2021-06-09T07:19:14Z,2021-06-09T11:37:38Z,,NONE,,"{'url': 'https://api.github.com/repos/pandas-dev/pandas/pulls/41890', 'html_url': 'https://github.com/pandas-dev/pandas/pull/41890', 'diff_url': 'https://github.com/pandas-dev/pandas/pull/41890.diff', 'patch_url': 'https://github.com/pandas-dev/pandas/pull/41890.patch'}","__What's new__
+
+This PR introduces a new keyword, `drop_na`, to the `to_json()` function. It can be set to either `True` or `False`.
+
+When `drop_na=False`, `to_json()` works just like it did before.
+
+When `drop_na=True`, items with value `null` in the output of `to_json()` will be removed. Using this feature is (currently) only possible in combination with `orient=""records""` and when the input object is of type `pd.DataFrame`. Removing the `null` items is done through string substitution with `re.sub()` in a new helper function (`remove_null_items()` in `_normalize.py`).
+
+- [x] tests added / passed
+- [x] Ensure all linting tests pass, see [here](https://pandas.pydata.org/pandas-docs/dev/development/contributing.html#code-standards) for how to run them
+
+__Notes__
+
+I imagine that, ideally, the `ultrajson`/`ujson` package had a `drop_none` parameter that would be adapted to include `NaN` values from pandas. IMO, this would be a better solution because it 1) is likely much faster and 2) avoids the use of regex. I started implementing such a parameter in `ujson` (see [here](https://github.com/romanhaa/ultrajson/commits/drop_none)), but and wondered whether it would introduce too much conditionality to be compatible with their philosophy (being ultra-fast). That's why I decided to propose a sub-optimal but working solution to `pandas` directly.
+
+__Performance__
+
+I ran some performance tests and compared it to a [workaround](https://stackoverflow.com/a/46955083) intended to achieve the same goal.
+
+The input is a dataframe with 214,066 rows and 12 columns (read from a `.json` file, 58M in size, that can be found [here](http://ftp.ebi.ac.uk/pub/databases/opentargets/genetics/20022712/v2g/)).
+
+Code snippet for testing:
+
+```py
+df = pd.read_json('part-00001-7a4fb376-056a-4f34-ad92-248989cd92d4-c000.json', lines=True)
+
+print(""export with `drop_na=False`"")
+start_time = time.time()
+df.to_json(""~/some_file_1.json"", orient=""records"", lines=False, drop_na=False)
+print(""--- %s seconds ---"" % (time.time() - start_time))
+
+print(""export with `drop_na=True`"")
+start_time = time.time()
+df.to_json(""~/some_file_2.json"", orient=""records"", lines=False, drop_na=True)
+print(""--- %s seconds ---"" % (time.time() - start_time))
+
+print(""export with workaround"")
+start_time = time.time()
+with open(""/Users/roman/some_file_3.json"", ""w"", encoding=""utf-8"") as f:
+    json.dump([row.dropna().to_dict() for index, row in df.iterrows()], f)
+print(""--- %s seconds ---"" % (time.time() - start_time))
+```
+
+Output:
+
+```
+export with `to_json(orient='records', drop_na=False)`
+--- 0.4323728084564209 seconds ---
+export with `to_json(orient='records', drop_na=True)`
+--- 1.6985130310058594 seconds ---
+export with workaround
+--- 79.73292803764343 seconds ---
+```
+
+The implementation I propose is not only (much) faster than the workaround, but is also compatible with generating output in `jsonlines` format.",
+https://api.github.com/repos/pandas-dev/pandas/issues/41888,https://api.github.com/repos/pandas-dev/pandas,https://api.github.com/repos/pandas-dev/pandas/issues/41888/labels{/name},https://api.github.com/repos/pandas-dev/pandas/issues/41888/comments,https://api.github.com/repos/pandas-dev/pandas/issues/41888/events,https://github.com/pandas-dev/pandas/pull/41888,915770787,MDExOlB1bGxSZXF1ZXN0NjY1NTQzMTMy,41888,ENH: Add online operations for EWM.mean,"{'login': 'mroeschke', 'id': 10647082, 'node_id': 'MDQ6VXNlcjEwNjQ3MDgy', 'avatar_url': 'https://avatars.githubusercontent.com/u/10647082?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/mroeschke', 'html_url': 'https://github.com/mroeschke', 'followers_url': 'https://api.github.com/users/mroeschke/followers', 'following_url': 'https://api.github.com/users/mroeschke/following{/other_user}', 'gists_url': 'https://api.github.com/users/mroeschke/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/mroeschke/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/mroeschke/subscriptions', 'organizations_url': 'https://api.github.com/users/mroeschke/orgs', 'repos_url': 'https://api.github.com/users/mroeschke/repos', 'events_url': 'https://api.github.com/users/mroeschke/events{/privacy}', 'received_events_url': 'https://api.github.com/users/mroeschke/received_events', 'type': 'User', 'site_admin': False}","[{'id': 76812, 'node_id': 'MDU6TGFiZWw3NjgxMg==', 'url': 'https://api.github.com/repos/pandas-dev/pandas/labels/Enhancement', 'name': 'Enhancement', 'color': '4E9A06', 'default': False, 'description': None}, {'id': 1045950827, 'node_id': 'MDU6TGFiZWwxMDQ1OTUwODI3', 'url': 'https://api.github.com/repos/pandas-dev/pandas/labels/Window', 'name': 'Window', 'color': 'd4c5f9', 'default': False, 'description': 'rolling, ewma, expanding'}]",open,False,,[],"{'url': 'https://api.github.com/repos/pandas-dev/pandas/milestones/80', 'html_url': 'https://github.com/pandas-dev/pandas/milestone/80', 'labels_url': 'https://api.github.com/repos/pandas-dev/pandas/milestones/80/labels', 'id': 6095818, 'node_id': 'MDk6TWlsZXN0b25lNjA5NTgxOA==', 'number': 80, 'title': '1.3', 'description': '', 'creator': {'login': 'jreback', 'id': 953992, 'node_id': 'MDQ6VXNlcjk1Mzk5Mg==', 'avatar_url': 'https://avatars.githubusercontent.com/u/953992?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/jreback', 'html_url': 'https://github.com/jreback', 'followers_url': 'https://api.github.com/users/jreback/followers', 'following_url': 'https://api.github.com/users/jreback/following{/other_user}', 'gists_url': 'https://api.github.com/users/jreback/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/jreback/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/jreback/subscriptions', 'organizations_url': 'https://api.github.com/users/jreback/orgs', 'repos_url': 'https://api.github.com/users/jreback/repos', 'events_url': 'https://api.github.com/users/jreback/events{/privacy}', 'received_events_url': 'https://api.github.com/users/jreback/received_events', 'type': 'User', 'site_admin': False}, 'open_issues': 47, 'closed_issues': 2156, 'state': 'open', 'created_at': '2020-11-11T19:05:43Z', 'updated_at': '2021-06-09T14:13:42Z', 'due_on': '2021-05-31T07:00:00Z', 'closed_at': None}",0,2021-06-09T04:52:50Z,2021-06-09T12:25:30Z,,MEMBER,,"{'url': 'https://api.github.com/repos/pandas-dev/pandas/pulls/41888', 'html_url': 'https://github.com/pandas-dev/pandas/pull/41888', 'diff_url': 'https://github.com/pandas-dev/pandas/pull/41888.diff', 'patch_url': 'https://github.com/pandas-dev/pandas/pull/41888.patch'}","- [x] xref #41673
+- [x] tests added / passed
+- [x] Ensure all linting tests pass, see [here](https://pandas.pydata.org/pandas-docs/dev/development/contributing.html#code-standards) for how to run them
+- [x] whatsnew entry
+",
+https://api.github.com/repos/pandas-dev/pandas/issues/41887,https://api.github.com/repos/pandas-dev/pandas,https://api.github.com/repos/pandas-dev/pandas/issues/41887/labels{/name},https://api.github.com/repos/pandas-dev/pandas/issues/41887/comments,https://api.github.com/repos/pandas-dev/pandas/issues/41887/events,https://github.com/pandas-dev/pandas/issues/41887,915764511,MDU6SXNzdWU5MTU3NjQ1MTE=,41887,BUG: Incorrect read_csv values for NaN when using regex sep argument,"{'login': 'adamerose', 'id': 10884874, 'node_id': 'MDQ6VXNlcjEwODg0ODc0', 'avatar_url': 'https://avatars.githubusercontent.com/u/10884874?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/adamerose', 'html_url': 'https://github.com/adamerose', 'followers_url': 'https://api.github.com/users/adamerose/followers', 'following_url': 'https://api.github.com/users/adamerose/following{/other_user}', 'gists_url': 'https://api.github.com/users/adamerose/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/adamerose/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/adamerose/subscriptions', 'organizations_url': 'https://api.github.com/users/adamerose/orgs', 'repos_url': 'https://api.github.com/users/adamerose/repos', 'events_url': 'https://api.github.com/users/adamerose/events{/privacy}', 'received_events_url': 'https://api.github.com/users/adamerose/received_events', 'type': 'User', 'site_admin': False}","[{'id': 76811, 'node_id': 'MDU6TGFiZWw3NjgxMQ==', 'url': 'https://api.github.com/repos/pandas-dev/pandas/labels/Bug', 'name': 'Bug', 'color': 'e10c02', 'default': False, 'description': None}, {'id': 1954720290, 'node_id': 'MDU6TGFiZWwxOTU0NzIwMjkw', 'url': 'https://api.github.com/repos/pandas-dev/pandas/labels/Needs%20Triage', 'name': 'Needs Triage', 'color': '0052cc', 'default': False, 'description': 'Issue that has not been reviewed by a pandas team member'}]",open,False,,[],,0,2021-06-09T04:38:33Z,2021-06-09T04:38:56Z,,NONE,,,"#### Code Sample
+
+```python
+import numpy as np
+import pandas as pd
+
+file_path = ""temp.csv""
+
+df1 = pd.DataFrame({""x"": [np.nan, 1]})
+df1.to_csv(file_path, index=False)
+df1_regex = pd.read_csv(file_path, sep=',|\t')
+
+df2 = pd.DataFrame({""x1"": [np.nan, 1],
+                    ""x2"": [np.nan, np.nan]})
+df2.to_csv(file_path, index=False)
+df2_regex = pd.read_csv(file_path, sep=',|\t')
+
+print(f""-----------\ndf1\n{df1}"")
+print(f""-----------\ndf1_regex\n{df1_regex}"")
+print(f""-----------\ndf2\n{df2}"")
+print(f""-----------\ndf2_regex\n{df2_regex}"")
+```
+
+**Output**
+```python
+-----------
+df1
+     x
+0  NaN
+1  1.0
+-----------
+df1_regex
+     x
+0   """"
+1  1.0
+-----------
+df2
+    x1  x2
+0  NaN NaN
+1  1.0 NaN
+-----------
+df2_regex
+    x1  x2
+0  NaN NaN
+1  1.0 NaN
+```
+
+#### Problem description
+
+- When I provide any regex value for `sep` in `read_csv`, I get `""""` instead of `NaN` for blank cells
+- This only happens if the CSV only has a single column
+
+#### Expected Output
+
+`df1_regex` should have `NaN` in the first column like `df2_regex` does, not `""""`
+
+#### Output of ``pd.show_versions()``
+
+<details>
+
+INSTALLED VERSIONS
+------------------
+commit           : 2cb96529396d93b46abab7bbc73a208e708c642e
+python           : 3.8.9.final.0
+python-bits      : 64
+OS               : Windows
+OS-release       : 10
+Version          : 10.0.19041
+machine          : AMD64
+processor        : AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD
+byteorder        : little
+LC_ALL           : None
+LANG             : None
+LOCALE           : English_United States.1252
+pandas           : 1.2.4
+numpy            : 1.20.2
+pytz             : 2021.1
+dateutil         : 2.8.1
+pip              : 21.1.2
+setuptools       : 49.2.1
+Cython           : None
+pytest           : None
+hypothesis       : None
+sphinx           : None
+blosc            : None
+feather          : None
+xlsxwriter       : None
+lxml.etree       : None
+html5lib         : None
+pymysql          : None
+psycopg2         : None
+jinja2           : 2.11.3
+IPython          : 7.21.0
+pandas_datareader: None
+bs4              : 4.9.3
+bottleneck       : None
+fsspec           : None
+fastparquet      : None
+gcsfs            : None
+matplotlib       : 3.3.4
+numexpr          : None
+odfpy            : None
+openpyxl         : 3.0.7
+pandas_gbq       : None
+pyarrow          : 3.0.0
+pyxlsb           : None
+s3fs             : None
+scipy            : 1.6.1
+sqlalchemy       : 1.4.11
+tables           : None
+tabulate         : None
+xarray           : None
+xlrd             : None
+xlwt             : None
+numba            : None
+
+</details>
+",
+https://api.github.com/repos/pandas-dev/pandas/issues/41886,https://api.github.com/repos/pandas-dev/pandas,https://api.github.com/repos/pandas-dev/pandas/issues/41886/labels{/name},https://api.github.com/repos/pandas-dev/pandas/issues/41886/comments,https://api.github.com/repos/pandas-dev/pandas/issues/41886/events,https://github.com/pandas-dev/pandas/pull/41886,915731155,MDExOlB1bGxSZXF1ZXN0NjY1NTEwMjUw,41886,TST/CLN: test_cov_corr,"{'login': 'mzeitlin11', 'id': 37011898, 'node_id': 'MDQ6VXNlcjM3MDExODk4', 'avatar_url': 'https://avatars.githubusercontent.com/u/37011898?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/mzeitlin11', 'html_url': 'https://github.com/mzeitlin11', 'followers_url': 'https://api.github.com/users/mzeitlin11/followers', 'following_url': 'https://api.github.com/users/mzeitlin11/following{/other_user}', 'gists_url': 'https://api.github.com/users/mzeitlin11/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/mzeitlin11/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/mzeitlin11/subscriptions', 'organizations_url': 'https://api.github.com/users/mzeitlin11/orgs', 'repos_url': 'https://api.github.com/users/mzeitlin11/repos', 'events_url': 'https://api.github.com/users/mzeitlin11/events{/privacy}', 'received_events_url': 'https://api.github.com/users/mzeitlin11/received_events', 'type': 'User', 'site_admin': False}","[{'id': 57296398, 'node_id': 'MDU6TGFiZWw1NzI5NjM5OA==', 'url': 'https://api.github.com/repos/pandas-dev/pandas/labels/Algos', 'name': 'Algos', 'color': 'eb6420', 'default': False, 'description': 'Non-arithmetic algos: value_counts, factorize, sorting, isin, clip, shift, diff'}, {'id': 211029535, 'node_id': 'MDU6TGFiZWwyMTEwMjk1MzU=', 'url': 'https://api.github.com/repos/pandas-dev/pandas/labels/Clean', 'name': 'Clean', 'color': '207de5', 'default': False, 'description': None}, {'id': 127685, 'node_id': 'MDU6TGFiZWwxMjc2ODU=', 'url': 'https://api.github.com/repos/pandas-dev/pandas/labels/Testing', 'name': 'Testing', 'color': 'C4A000', 'default': False, 'description': 'Custom testing functions or related to the test suite'}]",open,False,,[],,0,2021-06-09T03:18:26Z,2021-06-09T10:22:46Z,,MEMBER,,"{'url': 'https://api.github.com/repos/pandas-dev/pandas/pulls/41886', 'html_url': 'https://github.com/pandas-dev/pandas/pull/41886', 'diff_url': 'https://github.com/pandas-dev/pandas/pull/41886.diff', 'patch_url': 'https://github.com/pandas-dev/pandas/pull/41886.patch'}","Some parameterizations, removal of unused vars. ",
+https://api.github.com/repos/pandas-dev/pandas/issues/41885,https://api.github.com/repos/pandas-dev/pandas,https://api.github.com/repos/pandas-dev/pandas/issues/41885/labels{/name},https://api.github.com/repos/pandas-dev/pandas/issues/41885/comments,https://api.github.com/repos/pandas-dev/pandas/issues/41885/events,https://github.com/pandas-dev/pandas/pull/41885,915697419,MDExOlB1bGxSZXF1ZXN0NjY1NDgyNzkx,41885,PERF: nancorr_spearman fastpath,"{'login': 'mzeitlin11', 'id': 37011898, 'node_id': 'MDQ6VXNlcjM3MDExODk4', 'avatar_url': 'https://avatars.githubusercontent.com/u/37011898?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/mzeitlin11', 'html_url': 'https://github.com/mzeitlin11', 'followers_url': 'https://api.github.com/users/mzeitlin11/followers', 'following_url': 'https://api.github.com/users/mzeitlin11/following{/other_user}', 'gists_url': 'https://api.github.com/users/mzeitlin11/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/mzeitlin11/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/mzeitlin11/subscriptions', 'organizations_url': 'https://api.github.com/users/mzeitlin11/orgs', 'repos_url': 'https://api.github.com/users/mzeitlin11/repos', 'events_url': 'https://api.github.com/users/mzeitlin11/events{/privacy}', 'received_events_url': 'https://api.github.com/users/mzeitlin11/received_events', 'type': 'User', 'site_admin': False}","[{'id': 57296398, 'node_id': 'MDU6TGFiZWw1NzI5NjM5OA==', 'url': 'https://api.github.com/repos/pandas-dev/pandas/labels/Algos', 'name': 'Algos', 'color': 'eb6420', 'default': False, 'description': 'Non-arithmetic algos: value_counts, factorize, sorting, isin, clip, shift, diff'}, {'id': 8935311, 'node_id': 'MDU6TGFiZWw4OTM1MzEx', 'url': 'https://api.github.com/repos/pandas-dev/pandas/labels/Performance', 'name': 'Performance', 'color': 'a10c02', 'default': False, 'description': 'Memory or execution speed performance'}]",open,False,,[],"{'url': 'https://api.github.com/repos/pandas-dev/pandas/milestones/80', 'html_url': 'https://github.com/pandas-dev/pandas/milestone/80', 'labels_url': 'https://api.github.com/repos/pandas-dev/pandas/milestones/80/labels', 'id': 6095818, 'node_id': 'MDk6TWlsZXN0b25lNjA5NTgxOA==', 'number': 80, 'title': '1.3', 'description': '', 'creator': {'login': 'jreback', 'id': 953992, 'node_id': 'MDQ6VXNlcjk1Mzk5Mg==', 'avatar_url': 'https://avatars.githubusercontent.com/u/953992?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/jreback', 'html_url': 'https://github.com/jreback', 'followers_url': 'https://api.github.com/users/jreback/followers', 'following_url': 'https://api.github.com/users/jreback/following{/other_user}', 'gists_url': 'https://api.github.com/users/jreback/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/jreback/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/jreback/subscriptions', 'organizations_url': 'https://api.github.com/users/jreback/orgs', 'repos_url': 'https://api.github.com/users/jreback/repos', 'events_url': 'https://api.github.com/users/jreback/events{/privacy}', 'received_events_url': 'https://api.github.com/users/jreback/received_events', 'type': 'User', 'site_admin': False}, 'open_issues': 47, 'closed_issues': 2156, 'state': 'open', 'created_at': '2020-11-11T19:05:43Z', 'updated_at': '2021-06-09T14:13:42Z', 'due_on': '2021-05-31T07:00:00Z', 'closed_at': None}",1,2021-06-09T01:58:13Z,2021-06-09T13:54:54Z,,MEMBER,,"{'url': 'https://api.github.com/repos/pandas-dev/pandas/pulls/41885', 'html_url': 'https://github.com/pandas-dev/pandas/pull/41885', 'diff_url': 'https://github.com/pandas-dev/pandas/pull/41885.diff', 'patch_url': 'https://github.com/pandas-dev/pandas/pull/41885.patch'}","xref #40956
+
+The diff looks much more complicated than it is because of indentation changes - the change is basically allowing a fast path for computation without nans by pulling up a slightly modified computation of `sumx, sumxx, sumyy` before missing value handling.
+
+Benchmarks:
+```
+before           after         ratio
+[b73c38e2]       [efeac916]
+<perf/grp_cumsum_int~7>       <nancorr_spearman_perf2>
+            70.3M              71M     1.01  stat_ops.Correlation.peakmem_corr_wide('spearman')
+-     1.39±0.06ms      1.01±0.02ms     0.73  stat_ops.Correlation.time_corr('spearman')
+         669±20μs         641±40μs     0.96  stat_ops.Correlation.time_corr_series('spearman')
+-      26.3±0.6ms       8.36±0.3ms     0.32  stat_ops.Correlation.time_corr_wide('spearman')
+          491±3ms          473±9ms     0.96  stat_ops.Correlation.time_corr_wide_nans('spearman')
+       8.04±0.5ms       7.97±0.6ms     0.99  stat_ops.Correlation.time_corrwith_cols('spearman')
+          215±1ms          213±2ms     0.99  stat_ops.Correlation.time_corrwith_rows('spearman')
+```",
+https://api.github.com/repos/pandas-dev/pandas/issues/41882,https://api.github.com/repos/pandas-dev/pandas,https://api.github.com/repos/pandas-dev/pandas/issues/41882/labels{/name},https://api.github.com/repos/pandas-dev/pandas/issues/41882/comments,https://api.github.com/repos/pandas-dev/pandas/issues/41882/events,https://github.com/pandas-dev/pandas/issues/41882,915547112,MDU6SXNzdWU5MTU1NDcxMTI=,41882,BUG: Index.get_indexer_for with mixed tuples,"{'login': 'jbrockmendel', 'id': 8078968, 'node_id': 'MDQ6VXNlcjgwNzg5Njg=', 'avatar_url': 'https://avatars.githubusercontent.com/u/8078968?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/jbrockmendel', 'html_url': 'https://github.com/jbrockmendel', 'followers_url': 'https://api.github.com/users/jbrockmendel/followers', 'following_url': 'https://api.github.com/users/jbrockmendel/following{/other_user}', 'gists_url': 'https://api.github.com/users/jbrockmendel/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/jbrockmendel/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/jbrockmendel/subscriptions', 'organizations_url': 'https://api.github.com/users/jbrockmendel/orgs', 'repos_url': 'https://api.github.com/users/jbrockmendel/repos', 'events_url': 'https://api.github.com/users/jbrockmendel/events{/privacy}', 'received_events_url': 'https://api.github.com/users/jbrockmendel/received_events', 'type': 'User', 'site_admin': False}","[{'id': 76811, 'node_id': 'MDU6TGFiZWw3NjgxMQ==', 'url': 'https://api.github.com/repos/pandas-dev/pandas/labels/Bug', 'name': 'Bug', 'color': 'e10c02', 'default': False, 'description': None}, {'id': 2822098, 'node_id': 'MDU6TGFiZWwyODIyMDk4', 'url': 'https://api.github.com/repos/pandas-dev/pandas/labels/Indexing', 'name': 'Indexing', 'color': '0b02e1', 'default': False, 'description': 'Related to indexing on series/frames, not to indexes themselves'}]",open,False,,[],,0,2021-06-08T21:40:55Z,2021-06-08T21:41:04Z,,MEMBER,,,"```
+idx = pd.Index([""i"", ""i"", ""j""])
+other = pd.Index([('i', 'i'), ('i', 'j'), ('j', 'i'), 'j'])
+
+>>> idx.get_indexer_for(other)
+ValueError: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+
+mi = pd.MultiIndex.from_tuples(other[:-1])
+mi.get_indexer(other)  # works!
+```",
+https://api.github.com/repos/pandas-dev/pandas/issues/41881,https://api.github.com/repos/pandas-dev/pandas,https://api.github.com/repos/pandas-dev/pandas/issues/41881/labels{/name},https://api.github.com/repos/pandas-dev/pandas/issues/41881/comments,https://api.github.com/repos/pandas-dev/pandas/issues/41881/events,https://github.com/pandas-dev/pandas/pull/41881,915544235,MDExOlB1bGxSZXF1ZXN0NjY1MzQ4NjY0,41881,REF: simplify indexes.base._maybe_cast_data_without_dtype,"{'login': 'jbrockmendel', 'id': 8078968, 'node_id': 'MDQ6VXNlcjgwNzg5Njg=', 'avatar_url': 'https://avatars.githubusercontent.com/u/8078968?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/jbrockmendel', 'html_url': 'https://github.com/jbrockmendel', 'followers_url': 'https://api.github.com/users/jbrockmendel/followers', 'following_url': 'https://api.github.com/users/jbrockmendel/following{/other_user}', 'gists_url': 'https://api.github.com/users/jbrockmendel/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/jbrockmendel/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/jbrockmendel/subscriptions', 'organizations_url': 'https://api.github.com/users/jbrockmendel/orgs', 'repos_url': 'https://api.github.com/users/jbrockmendel/repos', 'events_url': 'https://api.github.com/users/jbrockmendel/events{/privacy}', 'received_events_url': 'https://api.github.com/users/jbrockmendel/received_events', 'type': 'User', 'site_admin': False}","[{'id': 1465286368, 'node_id': 'MDU6TGFiZWwxNDY1Mjg2MzY4', 'url': 'https://api.github.com/repos/pandas-dev/pandas/labels/Constructors', 'name': 'Constructors', 'color': 'd4c5f9', 'default': False, 'description': 'Series/DataFrame/Index/pd.array Constructors'}, {'id': 1218227310, 'node_id': 'MDU6TGFiZWwxMjE4MjI3MzEw', 'url': 'https://api.github.com/repos/pandas-dev/pandas/labels/Index', 'name': 'Index', 'color': 'e99695', 'default': False, 'description': 'Related to the Index class or subclasses'}, {'id': 127681, 'node_id': 'MDU6TGFiZWwxMjc2ODE=', 'url': 'https://api.github.com/repos/pandas-dev/pandas/labels/Refactor', 'name': 'Refactor', 'color': 'FCE94F', 'default': False, 'description': 'Internal refactoring of code'}]",open,False,,[],,0,2021-06-08T21:38:12Z,2021-06-09T01:55:37Z,,MEMBER,,"{'url': 'https://api.github.com/repos/pandas-dev/pandas/pulls/41881', 'html_url': 'https://github.com/pandas-dev/pandas/pull/41881', 'diff_url': 'https://github.com/pandas-dev/pandas/pull/41881.diff', 'patch_url': 'https://github.com/pandas-dev/pandas/pull/41881.patch'}","- [ ] closes #xxxx
+- [ ] tests added / passed
+- [ ] Ensure all linting tests pass, see [here](https://pandas.pydata.org/pandas-docs/dev/development/contributing.html#code-standards) for how to run them
+- [ ] whatsnew entry
+",
+https://api.github.com/repos/pandas-dev/pandas/issues/41880,https://api.github.com/repos/pandas-dev/pandas,https://api.github.com/repos/pandas-dev/pandas/issues/41880/labels{/name},https://api.github.com/repos/pandas-dev/pandas/issues/41880/comments,https://api.github.com/repos/pandas-dev/pandas/issues/41880/events,https://github.com/pandas-dev/pandas/pull/41880,915486552,MDExOlB1bGxSZXF1ZXN0NjY1Mjk1ODY4,41880,Replaced value assignment by location accessor.,"{'login': 'kosmitive', 'id': 23101198, 'node_id': 'MDQ6VXNlcjIzMTAxMTk4', 'avatar_url': 'https://avatars.githubusercontent.com/u/23101198?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/kosmitive', 'html_url': 'https://github.com/kosmitive', 'followers_url': 'https://api.github.com/users/kosmitive/followers', 'following_url': 'https://api.github.com/users/kosmitive/following{/other_user}', 'gists_url': 'https://api.github.com/users/kosmitive/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/kosmitive/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/kosmitive/subscriptions', 'organizations_url': 'https://api.github.com/users/kosmitive/orgs', 'repos_url': 'https://api.github.com/users/kosmitive/repos', 'events_url': 'https://api.github.com/users/kosmitive/events{/privacy}', 'received_events_url': 'https://api.github.com/users/kosmitive/received_events', 'type': 'User', 'site_admin': False}","[{'id': 2822098, 'node_id': 'MDU6TGFiZWwyODIyMDk4', 'url': 'https://api.github.com/repos/pandas-dev/pandas/labels/Indexing', 'name': 'Indexing', 'color': '0b02e1', 'default': False, 'description': 'Related to indexing on series/frames, not to indexes themselves'}, {'id': 307649777, 'node_id': 'MDU6TGFiZWwzMDc2NDk3Nzc=', 'url': 'https://api.github.com/repos/pandas-dev/pandas/labels/Needs%20Info', 'name': 'Needs Info', 'color': '207de5', 'default': False, 'description': 'Clarification about behavior needed to assess issue'}]",open,False,,[],,1,2021-06-08T20:48:12Z,2021-06-08T23:26:52Z,,NONE,,"{'url': 'https://api.github.com/repos/pandas-dev/pandas/pulls/41880', 'html_url': 'https://github.com/pandas-dev/pandas/pull/41880', 'diff_url': 'https://github.com/pandas-dev/pandas/pull/41880.diff', 'patch_url': 'https://github.com/pandas-dev/pandas/pull/41880.patch'}","Changed self.obj[key] = value to self.obj.loc[:, key] = value to disable warning.
+
+- [ ] closes #xxxx
+- [ ] tests added / passed
+- [ ] Ensure all linting tests pass, see [here](https://pandas.pydata.org/pandas-docs/dev/development/contributing.html#code-standards) for how to run them
+- [ ] whatsnew entry
+",
+https://api.github.com/repos/pandas-dev/pandas/issues/41879,https://api.github.com/repos/pandas-dev/pandas,https://api.github.com/repos/pandas-dev/pandas/issues/41879/labels{/name},https://api.github.com/repos/pandas-dev/pandas/issues/41879/comments,https://api.github.com/repos/pandas-dev/pandas/issues/41879/events,https://github.com/pandas-dev/pandas/pull/41879,915425761,MDExOlB1bGxSZXF1ZXN0NjY1MjQxMzcw,41879,REF: avoid mutating Series._values directly in setitem but defer to Manager method,"{'login': 'jorisvandenbossche', 'id': 1020496, 'node_id': 'MDQ6VXNlcjEwMjA0OTY=', 'avatar_url': 'https://avatars.githubusercontent.com/u/1020496?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/jorisvandenbossche', 'html_url': 'https://github.com/jorisvandenbossche', 'followers_url': 'https://api.github.com/users/jorisvandenbossche/followers', 'following_url': 'https://api.github.com/users/jorisvandenbossche/following{/other_user}', 'gists_url': 'https://api.github.com/users/jorisvandenbossche/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/jorisvandenbossche/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/jorisvandenbossche/subscriptions', 'organizations_url': 'https://api.github.com/users/jorisvandenbossche/orgs', 'repos_url': 'https://api.github.com/users/jorisvandenbossche/repos', 'events_url': 'https://api.github.com/users/jorisvandenbossche/events{/privacy}', 'received_events_url': 'https://api.github.com/users/jorisvandenbossche/received_events', 'type': 'User', 'site_admin': False}","[{'id': 2822098, 'node_id': 'MDU6TGFiZWwyODIyMDk4', 'url': 'https://api.github.com/repos/pandas-dev/pandas/labels/Indexing', 'name': 'Indexing', 'color': '0b02e1', 'default': False, 'description': 'Related to indexing on series/frames, not to indexes themselves'}, {'id': 127681, 'node_id': 'MDU6TGFiZWwxMjc2ODE=', 'url': 'https://api.github.com/repos/pandas-dev/pandas/labels/Refactor', 'name': 'Refactor', 'color': 'FCE94F', 'default': False, 'description': 'Internal refactoring of code'}]",open,False,,[],,3,2021-06-08T19:59:16Z,2021-06-09T14:05:08Z,,MEMBER,,"{'url': 'https://api.github.com/repos/pandas-dev/pandas/pulls/41879', 'html_url': 'https://github.com/pandas-dev/pandas/pull/41879', 'diff_url': 'https://github.com/pandas-dev/pandas/pull/41879.diff', 'patch_url': 'https://github.com/pandas-dev/pandas/pull/41879.patch'}","There are currently two cases where the Series code directly modifies the underlying values itself (`self._values[..] = ..`), while most setitem code paths end up going through a specific indexing method that all end up in the Manager doing the actual modification of the values.
+
+Apart from being a bit inconsistent (it's good to have all eventual modifications consistently happening inside the manager, I think), I also need to move this to the manager for being able to check for copy-on-write in https://github.com/pandas-dev/pandas/pull/41878. 
+Since I think this is a generally useful change, moving it out of the CoW PR.",
+https://api.github.com/repos/pandas-dev/pandas/issues/41878,https://api.github.com/repos/pandas-dev/pandas,https://api.github.com/repos/pandas-dev/pandas/issues/41878/labels{/name},https://api.github.com/repos/pandas-dev/pandas/issues/41878/comments,https://api.github.com/repos/pandas-dev/pandas/issues/41878/events,https://github.com/pandas-dev/pandas/pull/41878,915371227,MDExOlB1bGxSZXF1ZXN0NjY1MTkxOTcz,41878,Proof of concept for Copy-on-Write implementation,"{'login': 'jorisvandenbossche', 'id': 1020496, 'node_id': 'MDQ6VXNlcjEwMjA0OTY=', 'avatar_url': 'https://avatars.githubusercontent.com/u/1020496?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/jorisvandenbossche', 'html_url': 'https://github.com/jorisvandenbossche', 'followers_url': 'https://api.github.com/users/jorisvandenbossche/followers', 'following_url': 'https://api.github.com/users/jorisvandenbossche/following{/other_user}', 'gists_url': 'https://api.github.com/users/jorisvandenbossche/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/jorisvandenbossche/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/jorisvandenbossche/subscriptions', 'organizations_url': 'https://api.github.com/users/jorisvandenbossche/orgs', 'repos_url': 'https://api.github.com/users/jorisvandenbossche/repos', 'events_url': 'https://api.github.com/users/jorisvandenbossche/events{/privacy}', 'received_events_url': 'https://api.github.com/users/jorisvandenbossche/received_events', 'type': 'User', 'site_admin': False}","[{'id': 2085877452, 'node_id': 'MDU6TGFiZWwyMDg1ODc3NDUy', 'url': 'https://api.github.com/repos/pandas-dev/pandas/labels/Copy%20/%20view%20semantics', 'name': 'Copy / view semantics', 'color': '70e5ca', 'default': False, 'description': ''}, {'id': 219960758, 'node_id': 'MDU6TGFiZWwyMTk5NjA3NTg=', 'url': 'https://api.github.com/repos/pandas-dev/pandas/labels/Needs%20Discussion', 'name': 'Needs Discussion', 'color': '207de5', 'default': False, 'description': None}]",open,False,,[],,0,2021-06-08T19:09:17Z,2021-06-08T19:43:15Z,,MEMBER,,"{'url': 'https://api.github.com/repos/pandas-dev/pandas/pulls/41878', 'html_url': 'https://github.com/pandas-dev/pandas/pull/41878', 'diff_url': 'https://github.com/pandas-dev/pandas/pull/41878.diff', 'patch_url': 'https://github.com/pandas-dev/pandas/pull/41878.patch'}","An experiment to implement one of the proposals discussed in https://github.com/pandas-dev/pandas/issues/36195/
+
+This PR adds Copy-on-Write (CoW) functionality to the DataFrame/Series when using ArrayManager. 
+It does this by adding a new `.refs` attribute to the `ArrayManager` that, if populated, keeps a list of `weakref` references (one per columns, so `len(mgr.arrays) == len(mgr.refs)` to the array it is viewing. 
+This ensures that if we are modifying an array of a child manager, we can check if it is referencing (viewing) another array, and if needed do a copy on write. And also if we are modifying an array of a parent manager, we can check if that array is being referenced by another array and if needed do a copy on write in this parent frame. (of course, a manager can both be parent and child at the same time, so those two checks always happen both)
+
+A very brief summary of the behaviour you get (longer description at https://github.com/pandas-dev/pandas/issues/36195/#issuecomment-786654449):
+
+- *Any* subset (so also a slice, single column access, etc) uses CoW (or is already a copy)
+- DataFrame methods that return a new DataFrame return shallow copies (using CoW) if applicable (for this POC I implemented that for `reset_index` and `rename` to test, needs to be expanded to other methods)
+
+I added a `test_copy_on_write.py` which already tests a set of cases (which of course needs to be expanded), going through that file should give an idea of the kind of behaviours (and how it changes compared to current master/BlockManager). 
+
+(I only added new, targeted tests in that file, I didn't yet start updating existing tests, as I imagine there will be quite a lot)
+
+This is a proof-of-concept PR, so the feedback I am looking for / what I want to get out of it:
+
+- A concrete starting point for an implementation, to stir the discussion on this topic https://github.com/pandas-dev/pandas/issues/36195/ (and a concrete implementation you can play with, to get feedback on the proposed semantics)
+- Review of the actual implementation using `weakrefs` (it's quite simple at the moment, but not too simple? Will this be robust enough?)
+- Other corner cases that should certainly be tested
+- ...
+
+And to be clear, not yet everything is covered (there are some `# TODO`'s in `array_manager.py`, but only fixing those while also adding tests that require it)
+
+cc @pandas-dev/pandas-core ",
+https://api.github.com/repos/pandas-dev/pandas/issues/41877,https://api.github.com/repos/pandas-dev/pandas,https://api.github.com/repos/pandas-dev/pandas/issues/41877/labels{/name},https://api.github.com/repos/pandas-dev/pandas/issues/41877/comments,https://api.github.com/repos/pandas-dev/pandas/issues/41877/events,https://github.com/pandas-dev/pandas/issues/41877,915315673,MDU6SXNzdWU5MTUzMTU2NzM=,41877,QST: ExtensionDtype made available with arguments to `astype` method,"{'login': 'thomassajot', 'id': 15252203, 'node_id': 'MDQ6VXNlcjE1MjUyMjAz', 'avatar_url': 'https://avatars.githubusercontent.com/u/15252203?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/thomassajot', 'html_url': 'https://github.com/thomassajot', 'followers_url': 'https://api.github.com/users/thomassajot/followers', 'following_url': 'https://api.github.com/users/thomassajot/following{/other_user}', 'gists_url': 'https://api.github.com/users/thomassajot/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/thomassajot/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/thomassajot/subscriptions', 'organizations_url': 'https://api.github.com/users/thomassajot/orgs', 'repos_url': 'https://api.github.com/users/thomassajot/repos', 'events_url': 'https://api.github.com/users/thomassajot/events{/privacy}', 'received_events_url': 'https://api.github.com/users/thomassajot/received_events', 'type': 'User', 'site_admin': False}","[{'id': 1954720290, 'node_id': 'MDU6TGFiZWwxOTU0NzIwMjkw', 'url': 'https://api.github.com/repos/pandas-dev/pandas/labels/Needs%20Triage', 'name': 'Needs Triage', 'color': '0052cc', 'default': False, 'description': 'Issue that has not been reviewed by a pandas team member'}, {'id': 34444536, 'node_id': 'MDU6TGFiZWwzNDQ0NDUzNg==', 'url': 'https://api.github.com/repos/pandas-dev/pandas/labels/Usage%20Question', 'name': 'Usage Question', 'color': '0052cc', 'default': False, 'description': None}]",open,False,,[],,5,2021-06-08T18:01:37Z,2021-06-08T20:37:36Z,,NONE,,,"- [x] I have searched the [[pandas] tag](https://stackoverflow.com/questions/tagged/pandas) on StackOverflow for similar questions.
+
+- [ ] I have asked my usage related question on [StackOverflow](https://stackoverflow.com).
+
+---
+
+#### Question about pandas
+Hello, 
+
+I have been attempting to create a new ExtensionDtype and ExtensionArray.  The Dtype can take in arguments. I was looking into how to replicate the behaviour of `Categorical` when assigning a dtype to a series. 
+
+If the user does not provide arguments 
+```python
+pd.Series(['a', 'b', 'c']).astype('category')  # or pd.Series(['a', 'b', 'c']).astype(pd.CategoricalDtype())
+```
+Returns:
+```
+0      a
+1      b
+2     c
+dtype: category
+Categories (2, object): ['a', 'b']
+```
+
+If the user provides the `categories` list:
+```python
+pd.Series(['a', 'b', 'c']).astype(pd.CategoricalDtype(['a', 'b'])) 
+```
+Then the argument is given to the Array constructor which now returns a missing value:
+```
+0      a
+1      b
+2    NaN
+dtype: category
+Categories (2, object): ['a', 'b']
+```
+
+But for now, with my custom Dtype called in a similar fashion, the default values are used no matter the given arguments: 
+Running:
+```python
+pd.Series([1, 2, 3]).astype(DiscreteNumericalDtype(lower=0, upper=3, inc=1))
+```
+expected to return
+```
+0   1.0
+1   2.0
+2   3.0
+dtype: discrete
+```
+
+but actually returns:
+```
+0   1.0
+1   NaN
+2   NaN
+dtype: discrete
+```
+which is the results of using the default argument (lower=0, upper=1, inc=.1)
+
+### More detail about the custom types:
+The goal is to create an array where float values have to be between a min and a max value, [lower, upper] and at an interval `inc`. For example, [0, 1, 5.3] mapped onto [1, 6] with an inc=1 should return: [NaN, 1, 5], and with an inc=0.2 should return [NaN, 1, 5.2].
+
+Here is the full code I have so far.
+
+I did not ask the question on StackOverflow as I believe the answer to this question should be added into panda's Documentation as well.
+
+**Note**: If you'd still like to submit a question, please read [this guide](
+https://matthewrocklin.com/blog/work/2018/02/28/minimal-bug-reports) detailing how to provide the necessary information for us to reproduce your question.
+
+```python
+from typing import Type, List, Optional
+
+import numpy as np
+from druid.pandas.dtypes import DiscreteNumericalDtype
+from pandas._typing import DtypeObj
+from pandas.core.arrays import ExtensionArray
+from pandas.core.dtypes.base import register_extension_dtype, ExtensionDtype
+
+
+class DiscreteNumericalDtypeType(type):
+    """"""
+    the type of DiscreteNumericalDtype, this metaclass determines subclass ability
+    """"""
+
+    pass
+
+
+@register_extension_dtype
+class DiscreteNumericalDtype(ExtensionDtype):
+
+    name = 'discrete'
+    type: Type[DiscreteNumericalDtypeType] = DiscreteNumericalDtypeType
+    base = np.dtype(""O"")
+
+    def __init__(self, lower: float = 0., upper: float = 1., inc: float = 0.1):
+        self.lower = lower
+        self.upper = upper
+        self.inc = inc
+
+    @property
+    def type(self) -> Type:
+        return np.float
+
+    @classmethod
+    def construct_array_type(cls) -> Type['DiscreteNumericalArray']:
+        from druid.pandas.arrays import DiscreteNumericalArray
+        return DiscreteNumericalArray
+
+    def _is_numeric(self) -> bool:
+        return True
+
+    def _is_boolean(self) -> bool:
+        return False
+
+    def _get_common_dtype(self, dtypes: List[DtypeObj]) -> Optional[DtypeObj]:
+        raise NotImplementedError('TODO')
+
+
+
+class DiscreteNumericalArray(ExtensionArray):
+    """"""
+    Represent a Continuous value into bins between [Lower, Upper] and a step size.
+    """"""
+    _dtype = DiscreteNumericalDtype()
+    ndim: int = 1
+
+    def __init__(self,
+                 values,
+                 lower: Optional[float] = 0.,
+                 upper: Optional[float] = 1.,
+                 inc: float = 0.1):
+        values = np.asarray(values, dtype=float)
+        if lower is None:
+            lower = np.min(values)
+        if upper is None:
+            upper = np.max(values)
+
+        values[values > upper] = np.nan
+        values[values < lower] = np.nan
+
+        self._dtype = DiscreteNumericalDtype(lower=lower, upper=upper + inc, inc=inc)
+        bins = self.bins
+        self.codes = np.searchsorted(bins, values, side='right') - 1
+        self.codes[np.isnan(values)] = -1
+
+    @property
+    def values(self):
+        values = self.bins[self.codes]
+        values[self.codes == -1] = np.nan
+        return values
+
+    @property
+    def dtype(self) -> DiscreteNumericalDtype:
+        return self._dtype
+
+    @property
+    def bins(self):
+        return np.arange(start=self.dtype.lower,
+                         stop=self.dtype.upper,
+                         step=self.dtype.inc,
+                         dtype=float)
+
+    @classmethod
+    def _from_sequence(cls, scalars, *, dtype=None, copy=False):
+        return DiscreteNumericalArray(scalars)
+
+    @property
+    def _constructor(self) -> Type['DiscreteNumericalArray']:
+        return DiscreteNumericalArray
+
+    @classmethod
+    def _from_factorized(cls, values, original):
+        return original._constructor(values,
+                                    lower=original.dtype.lower,
+                                    upper=original.dtype.upper,
+                                    inc=original.dtype.inc)
+
+    def astype(self, dtype, copy=True):
+        raise NotImplementedError('TODO')
+
+    def isna(self):
+        return self.codes == -1
+
+    def __len__(self):
+        return len(self.codes)
+
+    def __getitem__(self, key):
+        return self.values[key]
+
+
+```
+",
+https://api.github.com/repos/pandas-dev/pandas/issues/41876,https://api.github.com/repos/pandas-dev/pandas,https://api.github.com/repos/pandas-dev/pandas/issues/41876/labels{/name},https://api.github.com/repos/pandas-dev/pandas/issues/41876/comments,https://api.github.com/repos/pandas-dev/pandas/issues/41876/events,https://github.com/pandas-dev/pandas/issues/41876,915266146,MDU6SXNzdWU5MTUyNjYxNDY=,41876,BUG: seemingly unexpected behavior with errrors='ignore' in json_normalize(),"{'login': 'neelmraman', 'id': 42706631, 'node_id': 'MDQ6VXNlcjQyNzA2NjMx', 'avatar_url': 'https://avatars.githubusercontent.com/u/42706631?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/neelmraman', 'html_url': 'https://github.com/neelmraman', 'followers_url': 'https://api.github.com/users/neelmraman/followers', 'following_url': 'https://api.github.com/users/neelmraman/following{/other_user}', 'gists_url': 'https://api.github.com/users/neelmraman/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/neelmraman/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/neelmraman/subscriptions', 'organizations_url': 'https://api.github.com/users/neelmraman/orgs', 'repos_url': 'https://api.github.com/users/neelmraman/repos', 'events_url': 'https://api.github.com/users/neelmraman/events{/privacy}', 'received_events_url': 'https://api.github.com/users/neelmraman/received_events', 'type': 'User', 'site_admin': False}","[{'id': 76811, 'node_id': 'MDU6TGFiZWw3NjgxMQ==', 'url': 'https://api.github.com/repos/pandas-dev/pandas/labels/Bug', 'name': 'Bug', 'color': 'e10c02', 'default': False, 'description': None}, {'id': 1954720290, 'node_id': 'MDU6TGFiZWwxOTU0NzIwMjkw', 'url': 'https://api.github.com/repos/pandas-dev/pandas/labels/Needs%20Triage', 'name': 'Needs Triage', 'color': '0052cc', 'default': False, 'description': 'Issue that has not been reviewed by a pandas team member'}]",open,False,,[],,0,2021-06-08T17:11:05Z,2021-06-08T17:11:31Z,,NONE,,,"- [x] I have checked that this issue has not already been reported.
+
+- [x] I have confirmed this bug exists on the latest version of pandas.
+
+- [ ] (optional) I have confirmed this bug exists on the master branch of pandas.
+
+---
+
+**Note**: Please read [this guide](https://matthewrocklin.com/blog/work/2018/02/28/minimal-bug-reports) detailing how to provide the necessary information for us to reproduce your bug.
+
+#### Code Sample, a copy-pastable example
+
+```python
+# raises a KeyError due to the missing 'id' in the second element, even though errors='ignore' was passed
+pd.json_normalize(
+    data=[{""id"": 1, ""outer"": {""inner"": [{""field"": 2}]}}, {""outer"": {""inner"": [{""field"": 3}]}}],
+    record_path=[""outer"", ""inner""],
+    meta=[""id""],
+    errors=""ignore"",
+)
+
+# no issues since both elements have an 'id', and shows that it is looking for 'id' at the right level
+pd.json_normalize(
+    data=[{""id"": 1, ""outer"": {""inner"": [{""field"": 2}]}}, {""id"": 4, ""outer"": {""inner"": [{""field"": 3}]}}],
+    record_path=[""outer"", ""inner""],
+    meta=[""id""],
+    errors=""ignore"",
+)
+
+# no issues when record_path has length 1
+pd.json_normalize(
+    data=[{""id"": 1, ""outer"": [{""field"": 2}]}, {""outer"": [{""field"": 3}]}],
+    record_path=[""outer""],
+    meta=[""id""],
+    errors=""ignore"",
+)
+```
+
+#### Problem description
+
+I would expect the first case above to return the same output as the third case (i.e., with missing ids filled with `np.nan`). Is the absence of a try...except around the [first _pull_field() call](https://github.com/pandas-dev/pandas/blob/1cad9e52ee1028db3bb4b9e86998104eb4d6b0ee/pandas/io/json/_normalize.py#L304) intentional?
+
+#### Expected Output
+```
+    field    id
+0       2     1
+1       3   NaN
+```
+
+#### Output of ``pd.show_versions()``
+
+
+<details>
+
+INSTALLED VERSIONS
+------------------
+commit           : None
+python           : 3.7.9.final.0
+python-bits      : 64
+OS               : Linux
+OS-release       : 4.14.67-ts1
+machine          : x86_64
+processor        : 
+byteorder        : little
+LC_ALL           : None
+LANG             : en_US.utf8
+LOCALE           : en_US.UTF-8
+
+pandas           : 1.0.5
+numpy            : 1.16.6
+pytz             : 2020.4
+dateutil         : 2.8.0
+pip              : 19.3.1
+setuptools       : 42.0.2
+Cython           : None
+pytest           : 5.3.1
+hypothesis       : 3.57.0
+sphinx           : 3.2.1
+blosc            : None
+feather          : None
+xlsxwriter       : None
+lxml.etree       : 4.5.2
+html5lib         : 1.0.1
+pymysql          : None
+psycopg2         : 2.8.5 (dt dec pq3 ext lo64)
+jinja2           : 2.11.1
+IPython          : 7.14.0
+pandas_datareader: None
+bs4              : 4.9.1
+bottleneck       : 1.2.1
+fastparquet      : None
+gcsfs            : None
+lxml.etree       : 4.5.2
+matplotlib       : 3.0.3
+numexpr          : 2.6.4
+odfpy            : None
+openpyxl         : None
+pandas_gbq       : None
+pyarrow          : 1.0.1
+pytables         : None
+pytest           : 5.3.1
+pyxlsb           : None
+s3fs             : 0.4.2
+scipy            : 1.5.1
+sqlalchemy       : 1.3.18
+tables           : None
+tabulate         : 0.8.3
+xarray           : None
+xlrd             : 1.1.0
+xlwt             : None
+xlsxwriter       : None
+numba            : 0.50.1
+
+</details>
+",
+https://api.github.com/repos/pandas-dev/pandas/issues/41875,https://api.github.com/repos/pandas-dev/pandas,https://api.github.com/repos/pandas-dev/pandas/issues/41875/labels{/name},https://api.github.com/repos/pandas-dev/pandas/issues/41875/comments,https://api.github.com/repos/pandas-dev/pandas/issues/41875/events,https://github.com/pandas-dev/pandas/pull/41875,915259536,MDExOlB1bGxSZXF1ZXN0NjY1MDk0NjQx,41875,BUG: unstack with object dtype of tzaware timestamps,"{'login': 'jbrockmendel', 'id': 8078968, 'node_id': 'MDQ6VXNlcjgwNzg5Njg=', 'avatar_url': 'https://avatars.githubusercontent.com/u/8078968?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/jbrockmendel', 'html_url': 'https://github.com/jbrockmendel', 'followers_url': 'https://api.github.com/users/jbrockmendel/followers', 'following_url': 'https://api.github.com/users/jbrockmendel/following{/other_user}', 'gists_url': 'https://api.github.com/users/jbrockmendel/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/jbrockmendel/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/jbrockmendel/subscriptions', 'organizations_url': 'https://api.github.com/users/jbrockmendel/orgs', 'repos_url': 'https://api.github.com/users/jbrockmendel/repos', 'events_url': 'https://api.github.com/users/jbrockmendel/events{/privacy}', 'received_events_url': 'https://api.github.com/users/jbrockmendel/received_events', 'type': 'User', 'site_admin': False}","[{'id': 76811, 'node_id': 'MDU6TGFiZWw3NjgxMQ==', 'url': 'https://api.github.com/repos/pandas-dev/pandas/labels/Bug', 'name': 'Bug', 'color': 'e10c02', 'default': False, 'description': None}, {'id': 13098779, 'node_id': 'MDU6TGFiZWwxMzA5ODc3OQ==', 'url': 'https://api.github.com/repos/pandas-dev/pandas/labels/Reshaping', 'name': 'Reshaping', 'color': '02d7e1', 'default': False, 'description': 'Concat, Merge/Join, Stack/Unstack'}, {'id': 60458168, 'node_id': 'MDU6TGFiZWw2MDQ1ODE2OA==', 'url': 'https://api.github.com/repos/pandas-dev/pandas/labels/Timezones', 'name': 'Timezones', 'color': '5319e7', 'default': False, 'description': 'Timezone data dtype'}]",open,False,,[],,0,2021-06-08T17:02:07Z,2021-06-09T01:55:10Z,,MEMBER,,"{'url': 'https://api.github.com/repos/pandas-dev/pandas/pulls/41875', 'html_url': 'https://github.com/pandas-dev/pandas/pull/41875', 'diff_url': 'https://github.com/pandas-dev/pandas/pull/41875.diff', 'patch_url': 'https://github.com/pandas-dev/pandas/pull/41875.patch'}","- [ ] closes #xxxx
+- [x] tests added / passed
+- [x] Ensure all linting tests pass, see [here](https://pandas.pydata.org/pandas-docs/dev/development/contributing.html#code-standards) for how to run them
+- [x] whatsnew entry
+",
+https://api.github.com/repos/pandas-dev/pandas/issues/41873,https://api.github.com/repos/pandas-dev/pandas,https://api.github.com/repos/pandas-dev/pandas/issues/41873/labels{/name},https://api.github.com/repos/pandas-dev/pandas/issues/41873/comments,https://api.github.com/repos/pandas-dev/pandas/issues/41873/events,https://github.com/pandas-dev/pandas/issues/41873,915126758,MDU6SXNzdWU5MTUxMjY3NTg=,41873,PERF: performance regression in indexing UInt64Index with an array-like,"{'login': 'jorisvandenbossche', 'id': 1020496, 'node_id': 'MDQ6VXNlcjEwMjA0OTY=', 'avatar_url': 'https://avatars.githubusercontent.com/u/1020496?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/jorisvandenbossche', 'html_url': 'https://github.com/jorisvandenbossche', 'followers_url': 'https://api.github.com/users/jorisvandenbossche/followers', 'following_url': 'https://api.github.com/users/jorisvandenbossche/following{/other_user}', 'gists_url': 'https://api.github.com/users/jorisvandenbossche/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/jorisvandenbossche/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/jorisvandenbossche/subscriptions', 'organizations_url': 'https://api.github.com/users/jorisvandenbossche/orgs', 'repos_url': 'https://api.github.com/users/jorisvandenbossche/repos', 'events_url': 'https://api.github.com/users/jorisvandenbossche/events{/privacy}', 'received_events_url': 'https://api.github.com/users/jorisvandenbossche/received_events', 'type': 'User', 'site_admin': False}","[{'id': 2822098, 'node_id': 'MDU6TGFiZWwyODIyMDk4', 'url': 'https://api.github.com/repos/pandas-dev/pandas/labels/Indexing', 'name': 'Indexing', 'color': '0b02e1', 'default': False, 'description': 'Related to indexing on series/frames, not to indexes themselves'}, {'id': 8935311, 'node_id': 'MDU6TGFiZWw4OTM1MzEx', 'url': 'https://api.github.com/repos/pandas-dev/pandas/labels/Performance', 'name': 'Performance', 'color': 'a10c02', 'default': False, 'description': 'Memory or execution speed performance'}, {'id': 32815646, 'node_id': 'MDU6TGFiZWwzMjgxNTY0Ng==', 'url': 'https://api.github.com/repos/pandas-dev/pandas/labels/Regression', 'name': 'Regression', 'color': 'e11d21', 'default': False, 'description': 'Functionality that used to work in a prior pandas version'}]",open,False,,[],"{'url': 'https://api.github.com/repos/pandas-dev/pandas/milestones/80', 'html_url': 'https://github.com/pandas-dev/pandas/milestone/80', 'labels_url': 'https://api.github.com/repos/pandas-dev/pandas/milestones/80/labels', 'id': 6095818, 'node_id': 'MDk6TWlsZXN0b25lNjA5NTgxOA==', 'number': 80, 'title': '1.3', 'description': '', 'creator': {'login': 'jreback', 'id': 953992, 'node_id': 'MDQ6VXNlcjk1Mzk5Mg==', 'avatar_url': 'https://avatars.githubusercontent.com/u/953992?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/jreback', 'html_url': 'https://github.com/jreback', 'followers_url': 'https://api.github.com/users/jreback/followers', 'following_url': 'https://api.github.com/users/jreback/following{/other_user}', 'gists_url': 'https://api.github.com/users/jreback/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/jreback/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/jreback/subscriptions', 'organizations_url': 'https://api.github.com/users/jreback/orgs', 'repos_url': 'https://api.github.com/users/jreback/repos', 'events_url': 'https://api.github.com/users/jreback/events{/privacy}', 'received_events_url': 'https://api.github.com/users/jreback/received_events', 'type': 'User', 'site_admin': False}, 'open_issues': 47, 'closed_issues': 2156, 'state': 'open', 'created_at': '2020-11-11T19:05:43Z', 'updated_at': '2021-06-09T14:13:42Z', 'due_on': '2021-05-31T07:00:00Z', 'closed_at': None}",1,2021-06-08T14:39:41Z,2021-06-08T15:03:52Z,,MEMBER,,,"See eg https://pandas.pydata.org/speed/pandas/#indexing.NumericSeriesIndexing.time_loc_list_like?python=3.8&Cython=0.29.21&p-index_dtype=%3Cclass%20'pandas.core.indexes.numeric.UInt64Index'%3E&p-index_structure='unique_monotonic_inc'
+
+Up to 180x slowdown in the `indexing.NumericSeriesIndexing.time_loc_array/time_loc_list_like` benchmarks with UInt64Index.
+
+Indicated range of responsible commits is https://github.com/pandas-dev/pandas/compare/21d61451...c9d50d82
+
+Didn't check, but potential candidate: https://github.com/pandas-dev/pandas/pull/41777 or #41804
+
+cc @jbrockmendel ",
+https://api.github.com/repos/pandas-dev/pandas/issues/41868,https://api.github.com/repos/pandas-dev/pandas,https://api.github.com/repos/pandas-dev/pandas/issues/41868/labels{/name},https://api.github.com/repos/pandas-dev/pandas/issues/41868/comments,https://api.github.com/repos/pandas-dev/pandas/issues/41868/events,https://github.com/pandas-dev/pandas/pull/41868,914574151,MDExOlB1bGxSZXF1ZXN0NjY0NDc3ODE5,41868,ENH: drop_duplicates_index function to base series object. ,"{'login': 'Omerdan03', 'id': 57575138, 'node_id': 'MDQ6VXNlcjU3NTc1MTM4', 'avatar_url': 'https://avatars.githubusercontent.com/u/57575138?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/Omerdan03', 'html_url': 'https://github.com/Omerdan03', 'followers_url': 'https://api.github.com/users/Omerdan03/followers', 'following_url': 'https://api.github.com/users/Omerdan03/following{/other_user}', 'gists_url': 'https://api.github.com/users/Omerdan03/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/Omerdan03/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/Omerdan03/subscriptions', 'organizations_url': 'https://api.github.com/users/Omerdan03/orgs', 'repos_url': 'https://api.github.com/users/Omerdan03/repos', 'events_url': 'https://api.github.com/users/Omerdan03/events{/privacy}', 'received_events_url': 'https://api.github.com/users/Omerdan03/received_events', 'type': 'User', 'site_admin': False}","[{'id': 76812, 'node_id': 'MDU6TGFiZWw3NjgxMg==', 'url': 'https://api.github.com/repos/pandas-dev/pandas/labels/Enhancement', 'name': 'Enhancement', 'color': '4E9A06', 'default': False, 'description': None}, {'id': 219960758, 'node_id': 'MDU6TGFiZWwyMTk5NjA3NTg=', 'url': 'https://api.github.com/repos/pandas-dev/pandas/labels/Needs%20Discussion', 'name': 'Needs Discussion', 'color': '207de5', 'default': False, 'description': None}]",open,False,,[],,0,2021-06-08T08:27:41Z,2021-06-08T14:25:56Z,,NONE,,"{'url': 'https://api.github.com/repos/pandas-dev/pandas/pulls/41868', 'html_url': 'https://github.com/pandas-dev/pandas/pull/41868', 'diff_url': 'https://github.com/pandas-dev/pandas/pull/41868.diff', 'patch_url': 'https://github.com/pandas-dev/pandas/pull/41868.patch'}","Added drop_duplicates_index function to base series object. very useful when working with time series.
+
+
+- [ ] closes #xxxx
+- [ ] tests added / passed
+- [ ] Ensure all linting tests pass, see [here](https://pandas.pydata.org/pandas-docs/dev/development/contributing.html#code-standards) for how to run them
+- [ ] whatsnew entry
+",
+https://api.github.com/repos/pandas-dev/pandas/issues/41866,https://api.github.com/repos/pandas-dev/pandas,https://api.github.com/repos/pandas-dev/pandas/issues/41866/labels{/name},https://api.github.com/repos/pandas-dev/pandas/issues/41866/comments,https://api.github.com/repos/pandas-dev/pandas/issues/41866/events,https://github.com/pandas-dev/pandas/pull/41866,914452646,MDExOlB1bGxSZXF1ZXN0NjY0MzY2NjUz,41866,"ENH: add `environment`, e.g. ""longtable"", to `Styler.to_latex`","{'login': 'attack68', 'id': 24256554, 'node_id': 'MDQ6VXNlcjI0MjU2NTU0', 'avatar_url': 'https://avatars.githubusercontent.com/u/24256554?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/attack68', 'html_url': 'https://github.com/attack68', 'followers_url': 'https://api.github.com/users/attack68/followers', 'following_url': 'https://api.github.com/users/attack68/following{/other_user}', 'gists_url': 'https://api.github.com/users/attack68/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/attack68/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/attack68/subscriptions', 'organizations_url': 'https://api.github.com/users/attack68/orgs', 'repos_url': 'https://api.github.com/users/attack68/repos', 'events_url': 'https://api.github.com/users/attack68/events{/privacy}', 'received_events_url': 'https://api.github.com/users/attack68/received_events', 'type': 'User', 'site_admin': False}",[],open,False,,[],,0,2021-06-08T07:07:18Z,2021-06-08T16:32:50Z,,CONTRIBUTOR,,"{'url': 'https://api.github.com/repos/pandas-dev/pandas/pulls/41866', 'html_url': 'https://github.com/pandas-dev/pandas/pull/41866', 'diff_url': 'https://github.com/pandas-dev/pandas/pull/41866.diff', 'patch_url': 'https://github.com/pandas-dev/pandas/pull/41866.patch'}","checks an item off #41649 
+
+adds the longtable template, similar to DataFrame.to_latex.
+
+also allows for a custom environment if \begin{table} should be replaced by \begin{figure} etc.
+",
+https://api.github.com/repos/pandas-dev/pandas/issues/41865,https://api.github.com/repos/pandas-dev/pandas,https://api.github.com/repos/pandas-dev/pandas/issues/41865/labels{/name},https://api.github.com/repos/pandas-dev/pandas/issues/41865/comments,https://api.github.com/repos/pandas-dev/pandas/issues/41865/events,https://github.com/pandas-dev/pandas/issues/41865,914243317,MDU6SXNzdWU5MTQyNDMzMTc=,41865,Timezone specification like +HHMM without colon gives incorrect minutes,"{'login': 'huonw', 'id': 1203825, 'node_id': 'MDQ6VXNlcjEyMDM4MjU=', 'avatar_url': 'https://avatars.githubusercontent.com/u/1203825?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/huonw', 'html_url': 'https://github.com/huonw', 'followers_url': 'https://api.github.com/users/huonw/followers', 'following_url': 'https://api.github.com/users/huonw/following{/other_user}', 'gists_url': 'https://api.github.com/users/huonw/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/huonw/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/huonw/subscriptions', 'organizations_url': 'https://api.github.com/users/huonw/orgs', 'repos_url': 'https://api.github.com/users/huonw/repos', 'events_url': 'https://api.github.com/users/huonw/events{/privacy}', 'received_events_url': 'https://api.github.com/users/huonw/received_events', 'type': 'User', 'site_admin': False}","[{'id': 76811, 'node_id': 'MDU6TGFiZWw3NjgxMQ==', 'url': 'https://api.github.com/repos/pandas-dev/pandas/labels/Bug', 'name': 'Bug', 'color': 'e10c02', 'default': False, 'description': None}, {'id': 1954720290, 'node_id': 'MDU6TGFiZWwxOTU0NzIwMjkw', 'url': 'https://api.github.com/repos/pandas-dev/pandas/labels/Needs%20Triage', 'name': 'Needs Triage', 'color': '0052cc', 'default': False, 'description': 'Issue that has not been reviewed by a pandas team member'}, {'id': 60458168, 'node_id': 'MDU6TGFiZWw2MDQ1ODE2OA==', 'url': 'https://api.github.com/repos/pandas-dev/pandas/labels/Timezones', 'name': 'Timezones', 'color': '5319e7', 'default': False, 'description': 'Timezone data dtype'}]",open,False,,[],,0,2021-06-08T03:22:56Z,2021-06-08T08:19:30Z,,NONE,,,"- [x] I have checked that this issue has not already been reported.
+
+- [x] I have confirmed this bug exists on the latest version of pandas.
+
+- [ ] (optional) I have confirmed this bug exists on the master branch of pandas.
+
+---
+
+**Note**: Please read [this guide](https://matthewrocklin.com/blog/work/2018/02/28/minimal-bug-reports) detailing how to provide the necessary information for us to reproduce your bug.
+
+#### Code Sample, a copy-pastable example
+
+```python
+import pandas as pd
+
+# good:
+# Australia/Adelaide
+print(pd.Timestamp(0, tz=""+09:30"")) # 1970-01-01 09:30:00+09:30
+# Asia/Kathmandu
+print(pd.Timestamp(0, tz=""+05:45"")) # 1970-01-01 05:45:00+05:45
+
+# bad:
+print(pd.Timestamp(0, tz=""+0930"")) # 1970-01-01 09:00:00+09:00
+print(pd.Timestamp(0, tz=""+0545"")) # 1970-01-01 05:05:00+05:05
+
+# bonus:
+# pd.Timestamp(0, tz=""+09"") # ValueError: invalid literal for int() with base 10: '+'
+
+pd.show_versions()
+```
+
+#### Problem description
+
+A timezone specified as an explicit offset without a colon (`[+-]HHMM`) is passed incorrectly through args like `Timestamp(tz=...)` and functions like `tz_localize`. In particular, it looks like the code assumes that any string that starts with `+` or `-` will be formatted like `[+-]HH:MM` without validation (and similarly `UTC[+-]HH:MM`):
+
+https://github.com/pandas-dev/pandas/blob/dae5c5972aa539dcd5ba633e8d56735d61cfe7ae/pandas/_libs/tslibs/timezones.pyx#L125-L132
+
+A timezone offset without a colon is apparently valid in ISO8601 https://en.wikipedia.org/wiki/ISO_8601#Time_offsets_from_UTC (it is not valid RFC3339, which requires a colon). `+HH` is also valid ISO8601, and that results in an exception (see ""bonus"" section in the example).
+
+The lack of validation this also allows weird and wacky specifications, like `+09%30abcdef1234`, equivalent to `+09:30`.
+
+#### Expected Output
+
+The ""bad"" section should have the same output as the ""good"" section in the example, with the timezone passed through without losing the minutes details.
+
+#### Output of ``pd.show_versions()``
+
+<details>
+
+INSTALLED VERSIONS
+------------------
+commit           : 2cb96529396d93b46abab7bbc73a208e708c642e
+python           : 3.8.7.final.0
+python-bits      : 64
+OS               : Darwin
+OS-release       : 20.2.0
+Version          : Darwin Kernel Version 20.2.0: Wed Dec  2 20:40:21 PST 2020; root:xnu-7195.60.75~1/RELEASE_ARM64_T8101
+machine          : arm64
+processor        : arm
+byteorder        : little
+LC_ALL           : None
+LANG             : en_AU.UTF-8
+LOCALE           : en_AU.UTF-8
+
+pandas           : 1.2.4
+numpy            : 1.20.2
+pytz             : 2021.1
+dateutil         : 2.8.1
+pip              : 21.1.1
+setuptools       : 49.2.1
+Cython           : None
+pytest           : 6.1.2
+hypothesis       : None
+sphinx           : None
+blosc            : None
+feather          : None
+xlsxwriter       : None
+lxml.etree       : None
+html5lib         : None
+pymysql          : None
+psycopg2         : 2.8.6 (dt dec pq3 ext lo64)
+jinja2           : 2.11.3
+IPython          : 7.22.0
+pandas_datareader: None
+bs4              : None
+bottleneck       : None
+fsspec           : None
+fastparquet      : None
+gcsfs            : None
+matplotlib       : None
+numexpr          : None
+odfpy            : None
+openpyxl         : None
+pandas_gbq       : None
+pyarrow          : None
+pyxlsb           : None
+s3fs             : None
+scipy            : None
+sqlalchemy       : 1.3.20
+tables           : None
+tabulate         : None
+xarray           : None
+xlrd             : None
+xlwt             : None
+
+</details>
+",
+https://api.github.com/repos/pandas-dev/pandas/issues/41863,https://api.github.com/repos/pandas-dev/pandas,https://api.github.com/repos/pandas-dev/pandas/issues/41863/labels{/name},https://api.github.com/repos/pandas-dev/pandas/issues/41863/comments,https://api.github.com/repos/pandas-dev/pandas/issues/41863/events,https://github.com/pandas-dev/pandas/pull/41863,914188518,MDExOlB1bGxSZXF1ZXN0NjY0MTIzOTcw,41863,"BUG: IntervalIndex is_monotonic, get_loc, get_indexer_for, contains with np.nan","{'login': 'jbrockmendel', 'id': 8078968, 'node_id': 'MDQ6VXNlcjgwNzg5Njg=', 'avatar_url': 'https://avatars.githubusercontent.com/u/8078968?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/jbrockmendel', 'html_url': 'https://github.com/jbrockmendel', 'followers_url': 'https://api.github.com/users/jbrockmendel/followers', 'following_url': 'https://api.github.com/users/jbrockmendel/following{/other_user}', 'gists_url': 'https://api.github.com/users/jbrockmendel/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/jbrockmendel/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/jbrockmendel/subscriptions', 'organizations_url': 'https://api.github.com/users/jbrockmendel/orgs', 'repos_url': 'https://api.github.com/users/jbrockmendel/repos', 'events_url': 'https://api.github.com/users/jbrockmendel/events{/privacy}', 'received_events_url': 'https://api.github.com/users/jbrockmendel/received_events', 'type': 'User', 'site_admin': False}","[{'id': 76811, 'node_id': 'MDU6TGFiZWw3NjgxMQ==', 'url': 'https://api.github.com/repos/pandas-dev/pandas/labels/Bug', 'name': 'Bug', 'color': 'e10c02', 'default': False, 'description': None}, {'id': 150096370, 'node_id': 'MDU6TGFiZWwxNTAwOTYzNzA=', 'url': 'https://api.github.com/repos/pandas-dev/pandas/labels/Interval', 'name': 'Interval', 'color': '009800', 'default': False, 'description': 'Interval data type'}]",open,False,,[],,0,2021-06-08T02:33:50Z,2021-06-09T01:56:30Z,,MEMBER,,"{'url': 'https://api.github.com/repos/pandas-dev/pandas/pulls/41863', 'html_url': 'https://github.com/pandas-dev/pandas/pull/41863', 'diff_url': 'https://github.com/pandas-dev/pandas/pull/41863.diff', 'patch_url': 'https://github.com/pandas-dev/pandas/pull/41863.patch'}","- [x] closes #41831
+- [x] tests added / passed
+- [x] Ensure all linting tests pass, see [here](https://pandas.pydata.org/pandas-docs/dev/development/contributing.html#code-standards) for how to run them
+- [ ] whatsnew entry
+",
+https://api.github.com/repos/pandas-dev/pandas/issues/41858,https://api.github.com/repos/pandas-dev/pandas,https://api.github.com/repos/pandas-dev/pandas/issues/41858/labels{/name},https://api.github.com/repos/pandas-dev/pandas/issues/41858/comments,https://api.github.com/repos/pandas-dev/pandas/issues/41858/events,https://github.com/pandas-dev/pandas/pull/41858,913979853,MDExOlB1bGxSZXF1ZXN0NjYzOTM0OTk0,41858,BUG: groupby.shift returns different columns when fill_value is specified,"{'login': 'smithto1', 'id': 3813175, 'node_id': 'MDQ6VXNlcjM4MTMxNzU=', 'avatar_url': 'https://avatars.githubusercontent.com/u/3813175?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/smithto1', 'html_url': 'https://github.com/smithto1', 'followers_url': 'https://api.github.com/users/smithto1/followers', 'following_url': 'https://api.github.com/users/smithto1/following{/other_user}', 'gists_url': 'https://api.github.com/users/smithto1/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/smithto1/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/smithto1/subscriptions', 'organizations_url': 'https://api.github.com/users/smithto1/orgs', 'repos_url': 'https://api.github.com/users/smithto1/repos', 'events_url': 'https://api.github.com/users/smithto1/events{/privacy}', 'received_events_url': 'https://api.github.com/users/smithto1/received_events', 'type': 'User', 'site_admin': False}","[{'id': 233160, 'node_id': 'MDU6TGFiZWwyMzMxNjA=', 'url': 'https://api.github.com/repos/pandas-dev/pandas/labels/Groupby', 'name': 'Groupby', 'color': '729FCF', 'default': False, 'description': None}]",open,False,,[],,4,2021-06-07T21:45:10Z,2021-06-09T07:45:56Z,,MEMBER,,"{'url': 'https://api.github.com/repos/pandas-dev/pandas/pulls/41858', 'html_url': 'https://github.com/pandas-dev/pandas/pull/41858', 'diff_url': 'https://github.com/pandas-dev/pandas/pull/41858.diff', 'patch_url': 'https://github.com/pandas-dev/pandas/pull/41858.patch'}","- [x] closes #41556 
+- [x] tests added / passed
+- [x] Ensure all linting tests pass, see [here](https://pandas.pydata.org/pandas-docs/dev/development/contributing.html#code-standards) for how to run them
+- [x] whatsnew entry
+
+This fixes the minimal reproducing examples from the original bug report #41556. 
+
+**With master**, specifying `fill_value` causes the index columns to be returned and to include the `fill_value` in the grouping columns. 
+
+```
+In [4]: import pandas as pd
+   ...: 
+   ...: df = pd.DataFrame({'a': [2, 1, 2, 1], 'b': ['x', 'x', 'y', 'y']})
+   ...: 
+   ...: df.groupby('a').shift(1)
+Out[4]:
+     b
+0  NaN
+1  NaN
+2    x
+3    x
+In [5]: df.groupby('a').shift(1, fill_value='fill')
+Out[5]:
+      a     b
+0  fill  fill
+1  fill  fill
+2     2     x
+3     1     x
+```
+
+**With this PR**, only the value columns are returned in both cases, and the fill is applied correctly.
+
+```
+In [1]: import pandas as pd
+   ...: 
+   ...: # On master, using fill_value causes the index columns to be returned
+   ...: df = pd.DataFrame({'a': [2, 1, 2, 1], 'b': ['x', 'x', 'y', 'y']})
+   ...: 
+   ...: df.groupby('a').shift(1)
+Out[1]:
+     b
+0  NaN
+1  NaN
+2    x
+3    x
+In [2]: df.groupby('a').shift(1, fill_value='fill')
+Out[2]:
+      b
+0  fill
+1  fill
+2     x
+3     x
+```
+
+On master, if `fill_value=None` then `_get_cythonized_result` was used. But if `fill_value` was specified, then `self.apply` was used, because `_get_cythonized_result` couldn't take the `fill_value`. I've updated `_get_cythonized_result` so it can handle the `fill_value` itself. This means `Groupby.shift` follows the same code path and returns the same structure of output, whether or not `fill_value` is specified. 
+
+**Test**
+The bug reported in the original issue should have been caught by an existing test, except that the existing test extracts the values columns ( `[['Z']]` ), before doing its comparison to the expected output. This was hiding the fact that the structure of the result depended on `fill_value` being specified. 
+
+https://github.com/pandas-dev/pandas/blob/1.2.x/pandas/tests/groupby/test_groupby_shift_diff.py#L52
+
+Removing the extraction of the data column ( `[['Z']]` ) means we now have a test that catches the bug reported in the original issue. (The test fails on master, but passes on this PR). 
+",
+https://api.github.com/repos/pandas-dev/pandas/issues/41856,https://api.github.com/repos/pandas-dev/pandas,https://api.github.com/repos/pandas-dev/pandas/issues/41856/labels{/name},https://api.github.com/repos/pandas-dev/pandas/issues/41856/comments,https://api.github.com/repos/pandas-dev/pandas/issues/41856/events,https://github.com/pandas-dev/pandas/issues/41856,913805034,MDU6SXNzdWU5MTM4MDUwMzQ=,41856,"API: astype(""string"") behavior","{'login': 'simonjayhawkins', 'id': 13159005, 'node_id': 'MDQ6VXNlcjEzMTU5MDA1', 'avatar_url': 'https://avatars.githubusercontent.com/u/13159005?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/simonjayhawkins', 'html_url': 'https://github.com/simonjayhawkins', 'followers_url': 'https://api.github.com/users/simonjayhawkins/followers', 'following_url': 'https://api.github.com/users/simonjayhawkins/following{/other_user}', 'gists_url': 'https://api.github.com/users/simonjayhawkins/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/simonjayhawkins/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/simonjayhawkins/subscriptions', 'organizations_url': 'https://api.github.com/users/simonjayhawkins/orgs', 'repos_url': 'https://api.github.com/users/simonjayhawkins/repos', 'events_url': 'https://api.github.com/users/simonjayhawkins/events{/privacy}', 'received_events_url': 'https://api.github.com/users/simonjayhawkins/received_events', 'type': 'User', 'site_admin': False}","[{'id': 35818298, 'node_id': 'MDU6TGFiZWwzNTgxODI5OA==', 'url': 'https://api.github.com/repos/pandas-dev/pandas/labels/API%20Design', 'name': 'API Design', 'color': 'AD7FA8', 'default': False, 'description': None}, {'id': 57522093, 'node_id': 'MDU6TGFiZWw1NzUyMjA5Mw==', 'url': 'https://api.github.com/repos/pandas-dev/pandas/labels/Strings', 'name': 'Strings', 'color': '5319e7', 'default': False, 'description': 'String extension data type and string data'}]",open,False,,[],,0,2021-06-07T17:54:45Z,2021-06-07T17:54:45Z,,MEMBER,,,"in https://github.com/pandas-dev/pandas/pull/39908#issuecomment-855889758 @jorisvandenbossche wrote
+
+---
+
+Bringing the ""deferred"" storage mode lookup for `StringDtype` discussion (originally here: https://github.com/pandas-dev/pandas/pull/39908#discussion_r585573328) in the main thread, and trying to recap.
+
+Currently, doing `pd.StringDtype()` (without specifying the storage), will already look up the option. In the default case, you get:
+
+```python
+>>> pd.StringDtype().storage
+'python'
+```
+
+which also means that `pandas_dtype()` already ""fully initializes"" the string dtype:
+
+```python
+>>> pd.api.types.pandas_dtype(""string"")
+string[python]
+```
+
+As a consequence, doing `astype(""string"")` will actually convert the values if your string dtype doesn't match the globab setting:
+
+```python
+>>> s = pd.Series(['a', 'b'], dtype=pd.StringDtype(storage=""pyarrow""))
+>>> s.dtype
+string[pyarrow]
+>>> s.astype(""string"").dtype
+string[python]
+```
+
+While I think it could make sense for `.astype(""string"")` to mean: ""ensure I have *a* string dtype"", and thus don't convert to another storage backend if I already had a string dtype to start with. 
+
+We do something similar for CategoricalDtype (`""category""` means a categorical dtype with no categories, but `astype(""category"")` does not remove your categories, it preserves any existing categorical dtype as is). 
+
+We could still have the `astype(""string"")` behave in the way I suggest by special casing this in the `astype` implementations (as suggested in https://github.com/pandas-dev/pandas/pull/39908#discussion_r643867763)), but I think that's something we would ideally avoid (any `astype` implementation accepting string dtype values as input would need to handle this case?)",
+https://api.github.com/repos/pandas-dev/pandas/issues/41855,https://api.github.com/repos/pandas-dev/pandas,https://api.github.com/repos/pandas-dev/pandas/issues/41855/labels{/name},https://api.github.com/repos/pandas-dev/pandas/issues/41855/comments,https://api.github.com/repos/pandas-dev/pandas/issues/41855/events,https://github.com/pandas-dev/pandas/issues/41855,913731175,MDU6SXNzdWU5MTM3MzExNzU=,41855,pandas.notnull documentation showing code examples from pandas.notna,"{'login': 'jenkc', 'id': 24850405, 'node_id': 'MDQ6VXNlcjI0ODUwNDA1', 'avatar_url': 'https://avatars.githubusercontent.com/u/24850405?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/jenkc', 'html_url': 'https://github.com/jenkc', 'followers_url': 'https://api.github.com/users/jenkc/followers', 'following_url': 'https://api.github.com/users/jenkc/following{/other_user}', 'gists_url': 'https://api.github.com/users/jenkc/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/jenkc/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/jenkc/subscriptions', 'organizations_url': 'https://api.github.com/users/jenkc/orgs', 'repos_url': 'https://api.github.com/users/jenkc/repos', 'events_url': 'https://api.github.com/users/jenkc/events{/privacy}', 'received_events_url': 'https://api.github.com/users/jenkc/received_events', 'type': 'User', 'site_admin': False}","[{'id': 134699, 'node_id': 'MDU6TGFiZWwxMzQ2OTk=', 'url': 'https://api.github.com/repos/pandas-dev/pandas/labels/Docs', 'name': 'Docs', 'color': '3465A4', 'default': False, 'description': None}, {'id': 2822342, 'node_id': 'MDU6TGFiZWwyODIyMzQy', 'url': 'https://api.github.com/repos/pandas-dev/pandas/labels/Missing-data', 'name': 'Missing-data', 'color': 'd7e102', 'default': False, 'description': None}]",open,False,,[],"{'url': 'https://api.github.com/repos/pandas-dev/pandas/milestones/32', 'html_url': 'https://github.com/pandas-dev/pandas/milestone/32', 'labels_url': 'https://api.github.com/repos/pandas-dev/pandas/milestones/32/labels', 'id': 933188, 'node_id': 'MDk6TWlsZXN0b25lOTMzMTg4', 'number': 32, 'title': 'Contributions Welcome', 'description': 'Changes that would be nice to have in the next release. These issues are not blocking. They will be pushed to the next release if no one has time to fix them.', 'creator': {'login': 'jreback', 'id': 953992, 'node_id': 'MDQ6VXNlcjk1Mzk5Mg==', 'avatar_url': 'https://avatars.githubusercontent.com/u/953992?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/jreback', 'html_url': 'https://github.com/jreback', 'followers_url': 'https://api.github.com/users/jreback/followers', 'following_url': 'https://api.github.com/users/jreback/following{/other_user}', 'gists_url': 'https://api.github.com/users/jreback/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/jreback/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/jreback/subscriptions', 'organizations_url': 'https://api.github.com/users/jreback/orgs', 'repos_url': 'https://api.github.com/users/jreback/repos', 'events_url': 'https://api.github.com/users/jreback/events{/privacy}', 'received_events_url': 'https://api.github.com/users/jreback/received_events', 'type': 'User', 'site_admin': False}, 'open_issues': 1070, 'closed_issues': 721, 'state': 'open', 'created_at': '2015-01-13T10:53:19Z', 'updated_at': '2021-06-08T22:14:48Z', 'due_on': None, 'closed_at': None}",3,2021-06-07T16:28:36Z,2021-06-08T11:43:49Z,,NONE,,,"The code examples are from the previous page in the documentation. Need examples for using notnull please.
+Thanks!
+
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.notnull.html",
+https://api.github.com/repos/pandas-dev/pandas/issues/41854,https://api.github.com/repos/pandas-dev/pandas,https://api.github.com/repos/pandas-dev/pandas/issues/41854/labels{/name},https://api.github.com/repos/pandas-dev/pandas/issues/41854/comments,https://api.github.com/repos/pandas-dev/pandas/issues/41854/events,https://github.com/pandas-dev/pandas/pull/41854,913687725,MDExOlB1bGxSZXF1ZXN0NjYzNjgyMzU2,41854,BUG/ENH: group cummin/max handle skipna,"{'login': 'mzeitlin11', 'id': 37011898, 'node_id': 'MDQ6VXNlcjM3MDExODk4', 'avatar_url': 'https://avatars.githubusercontent.com/u/37011898?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/mzeitlin11', 'html_url': 'https://github.com/mzeitlin11', 'followers_url': 'https://api.github.com/users/mzeitlin11/followers', 'following_url': 'https://api.github.com/users/mzeitlin11/following{/other_user}', 'gists_url': 'https://api.github.com/users/mzeitlin11/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/mzeitlin11/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/mzeitlin11/subscriptions', 'organizations_url': 'https://api.github.com/users/mzeitlin11/orgs', 'repos_url': 'https://api.github.com/users/mzeitlin11/repos', 'events_url': 'https://api.github.com/users/mzeitlin11/events{/privacy}', 'received_events_url': 'https://api.github.com/users/mzeitlin11/received_events', 'type': 'User', 'site_admin': False}","[{'id': 57296398, 'node_id': 'MDU6TGFiZWw1NzI5NjM5OA==', 'url': 'https://api.github.com/repos/pandas-dev/pandas/labels/Algos', 'name': 'Algos', 'color': 'eb6420', 'default': False, 'description': 'Non-arithmetic algos: value_counts, factorize, sorting, isin, clip, shift, diff'}, {'id': 76811, 'node_id': 'MDU6TGFiZWw3NjgxMQ==', 'url': 'https://api.github.com/repos/pandas-dev/pandas/labels/Bug', 'name': 'Bug', 'color': 'e10c02', 'default': False, 'description': None}, {'id': 233160, 'node_id': 'MDU6TGFiZWwyMzMxNjA=', 'url': 'https://api.github.com/repos/pandas-dev/pandas/labels/Groupby', 'name': 'Groupby', 'color': '729FCF', 'default': False, 'description': None}, {'id': 2822342, 'node_id': 'MDU6TGFiZWwyODIyMzQy', 'url': 'https://api.github.com/repos/pandas-dev/pandas/labels/Missing-data', 'name': 'Missing-data', 'color': 'd7e102', 'default': False, 'description': None}]",open,False,,[],,0,2021-06-07T15:38:49Z,2021-06-07T15:57:37Z,,MEMBER,,"{'url': 'https://api.github.com/repos/pandas-dev/pandas/pulls/41854', 'html_url': 'https://github.com/pandas-dev/pandas/pull/41854', 'diff_url': 'https://github.com/pandas-dev/pandas/pull/41854.diff', 'patch_url': 'https://github.com/pandas-dev/pandas/pull/41854.patch'}","- [x] xref #34047
+- [x] tests added / passed
+- [x] Ensure all linting tests pass, see [here](https://pandas.pydata.org/pandas-docs/dev/development/contributing.html#code-standards) for how to run them
+- [x] whatsnew entry
+
+Built on #41853
+
+Previously `skipna` was just ignored, so there was a behavior difference between cummin/max and other cumulative functions eg
+
+```
+>>> df = pd.DataFrame({""a"": [1, np.nan, 1]})
+>>> df.groupby([1, 1, 1]).cumsum(skipna=False)
+     a
+0  1.0
+1  NaN
+2  NaN
+>>> df.groupby([1, 1, 1]).cummax(skipna=False)
+     a
+0  1.0
+1  NaN
+2  1.0
+```
+
+Benchmarks unaffected:
+<details>
+
+```
+       before           after         ratio
+     [3f67dc33]       [3c869ce4]
+     <master>         <group_cummin_max_skipna>
+         21.9±1ms         21.1±2ms     0.96  groupby.CumminMax.time_frame_transform('Float64', 'cummax')
+         22.8±2ms         23.4±2ms     1.02  groupby.CumminMax.time_frame_transform('Float64', 'cummin')
+         19.3±4ms         18.1±1ms     0.94  groupby.CumminMax.time_frame_transform('Int64', 'cummax')
+         26.3±2ms         22.2±3ms    ~0.84  groupby.CumminMax.time_frame_transform('Int64', 'cummin')
+       19.7±0.7ms         13.7±1ms    ~0.70  groupby.CumminMax.time_frame_transform('float64', 'cummax')
+         16.4±1ms       13.9±0.2ms    ~0.84  groupby.CumminMax.time_frame_transform('float64', 'cummin')
+         34.6±3ms         31.1±4ms    ~0.90  groupby.CumminMax.time_frame_transform('int64', 'cummax')
+       30.5±0.6ms       29.1±0.4ms     0.95  groupby.CumminMax.time_frame_transform('int64', 'cummin')
+         23.3±2ms         21.0±3ms    ~0.90  groupby.CumminMax.time_frame_transform_many_nulls('Float64', 'cummax')
+         21.1±3ms         21.3±3ms     1.01  groupby.CumminMax.time_frame_transform_many_nulls('Float64', 'cummin')
+         21.1±1ms         22.2±2ms     1.06  groupby.CumminMax.time_frame_transform_many_nulls('Int64', 'cummax')
+         19.7±2ms         20.1±3ms     1.02  groupby.CumminMax.time_frame_transform_many_nulls('Int64', 'cummin')
+       16.1±0.8ms         13.6±1ms    ~0.85  groupby.CumminMax.time_frame_transform_many_nulls('float64', 'cummax')
+         13.9±1ms       14.0±0.8ms     1.01  groupby.CumminMax.time_frame_transform_many_nulls('float64', 'cummin')
+         15.8±1ms       14.2±0.2ms    ~0.90  groupby.CumminMax.time_frame_transform_many_nulls('int64', 'cummax')
+       15.0±0.6ms       16.6±0.9ms    ~1.11  groupby.CumminMax.time_frame_transform_many_nulls('int64', 'cummin')
+```
+
+</details>",
+https://api.github.com/repos/pandas-dev/pandas/issues/41853,https://api.github.com/repos/pandas-dev/pandas,https://api.github.com/repos/pandas-dev/pandas/issues/41853/labels{/name},https://api.github.com/repos/pandas-dev/pandas/issues/41853/comments,https://api.github.com/repos/pandas-dev/pandas/issues/41853/events,https://github.com/pandas-dev/pandas/pull/41853,913659822,MDExOlB1bGxSZXF1ZXN0NjYzNjU4Mjkw,41853,REF: split out grouped masked cummin/max algo,"{'login': 'mzeitlin11', 'id': 37011898, 'node_id': 'MDQ6VXNlcjM3MDExODk4', 'avatar_url': 'https://avatars.githubusercontent.com/u/37011898?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/mzeitlin11', 'html_url': 'https://github.com/mzeitlin11', 'followers_url': 'https://api.github.com/users/mzeitlin11/followers', 'following_url': 'https://api.github.com/users/mzeitlin11/following{/other_user}', 'gists_url': 'https://api.github.com/users/mzeitlin11/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/mzeitlin11/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/mzeitlin11/subscriptions', 'organizations_url': 'https://api.github.com/users/mzeitlin11/orgs', 'repos_url': 'https://api.github.com/users/mzeitlin11/repos', 'events_url': 'https://api.github.com/users/mzeitlin11/events{/privacy}', 'received_events_url': 'https://api.github.com/users/mzeitlin11/received_events', 'type': 'User', 'site_admin': False}","[{'id': 57296398, 'node_id': 'MDU6TGFiZWw1NzI5NjM5OA==', 'url': 'https://api.github.com/repos/pandas-dev/pandas/labels/Algos', 'name': 'Algos', 'color': 'eb6420', 'default': False, 'description': 'Non-arithmetic algos: value_counts, factorize, sorting, isin, clip, shift, diff'}, {'id': 233160, 'node_id': 'MDU6TGFiZWwyMzMxNjA=', 'url': 'https://api.github.com/repos/pandas-dev/pandas/labels/Groupby', 'name': 'Groupby', 'color': '729FCF', 'default': False, 'description': None}, {'id': 127681, 'node_id': 'MDU6TGFiZWwxMjc2ODE=', 'url': 'https://api.github.com/repos/pandas-dev/pandas/labels/Refactor', 'name': 'Refactor', 'color': 'FCE94F', 'default': False, 'description': 'Internal refactoring of code'}]",open,False,,[],"{'url': 'https://api.github.com/repos/pandas-dev/pandas/milestones/80', 'html_url': 'https://github.com/pandas-dev/pandas/milestone/80', 'labels_url': 'https://api.github.com/repos/pandas-dev/pandas/milestones/80/labels', 'id': 6095818, 'node_id': 'MDk6TWlsZXN0b25lNjA5NTgxOA==', 'number': 80, 'title': '1.3', 'description': '', 'creator': {'login': 'jreback', 'id': 953992, 'node_id': 'MDQ6VXNlcjk1Mzk5Mg==', 'avatar_url': 'https://avatars.githubusercontent.com/u/953992?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/jreback', 'html_url': 'https://github.com/jreback', 'followers_url': 'https://api.github.com/users/jreback/followers', 'following_url': 'https://api.github.com/users/jreback/following{/other_user}', 'gists_url': 'https://api.github.com/users/jreback/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/jreback/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/jreback/subscriptions', 'organizations_url': 'https://api.github.com/users/jreback/orgs', 'repos_url': 'https://api.github.com/users/jreback/repos', 'events_url': 'https://api.github.com/users/jreback/events{/privacy}', 'received_events_url': 'https://api.github.com/users/jreback/received_events', 'type': 'User', 'site_admin': False}, 'open_issues': 47, 'closed_issues': 2156, 'state': 'open', 'created_at': '2020-11-11T19:05:43Z', 'updated_at': '2021-06-09T14:13:42Z', 'due_on': '2021-05-31T07:00:00Z', 'closed_at': None}",1,2021-06-07T15:10:59Z,2021-06-09T14:13:42Z,,MEMBER,,"{'url': 'https://api.github.com/repos/pandas-dev/pandas/pulls/41853', 'html_url': 'https://github.com/pandas-dev/pandas/pull/41853', 'diff_url': 'https://github.com/pandas-dev/pandas/pull/41853.diff', 'patch_url': 'https://github.com/pandas-dev/pandas/pull/41853.patch'}","No user-facing change here, but I think makes logic clearer and future changes easier to understand
+
+Benchmarks look unaffected:
+<details>
+
+```
+before           after         ratio
+[3f67dc33]       [51f8f9c8]
+<master>         <masked_cummin_ref>
+17.0±2ms         16.3±2ms     0.96  groupby.CumminMax.time_frame_transform('Float64', 'cummax')
+17.7±2ms         18.4±2ms     1.04  groupby.CumminMax.time_frame_transform('Float64', 'cummin')
+20.8±3ms       16.9±0.3ms    ~0.81  groupby.CumminMax.time_frame_transform('Int64', 'cummax')
+20.7±3ms         18.2±3ms    ~0.88  groupby.CumminMax.time_frame_transform('Int64', 'cummin')
+15.7±2ms       13.0±0.3ms    ~0.83  groupby.CumminMax.time_frame_transform('float64', 'cummax')
+15.5±0.7ms       13.6±0.7ms    ~0.88  groupby.CumminMax.time_frame_transform('float64', 'cummin')
+29.8±0.7ms       28.0±0.4ms     0.94  groupby.CumminMax.time_frame_transform('int64', 'cummax')
+29.9±1ms         30.0±2ms     1.00  groupby.CumminMax.time_frame_transform('int64', 'cummin')
+19.2±2ms         16.9±3ms    ~0.88  groupby.CumminMax.time_frame_transform_many_nulls('Float64', 'cummax')
+22.6±2ms         15.6±2ms    ~0.69  groupby.CumminMax.time_frame_transform_many_nulls('Float64', 'cummin')
+15.7±3ms         19.3±3ms    ~1.23  groupby.CumminMax.time_frame_transform_many_nulls('Int64', 'cummax')
+19.5±2ms         14.7±1ms    ~0.75  groupby.CumminMax.time_frame_transform_many_nulls('Int64', 'cummin')
+14.5±2ms       11.4±0.8ms    ~0.79  groupby.CumminMax.time_frame_transform_many_nulls('float64', 'cummax')
+13.2±1ms       12.4±0.2ms     0.94  groupby.CumminMax.time_frame_transform_many_nulls('float64', 'cummin')
+14.2±1ms       13.1±0.1ms     0.92  groupby.CumminMax.time_frame_transform_many_nulls('int64', 'cummax')
+14.1±0.5ms       13.4±0.4ms     0.95  groupby.CumminMax.time_frame_transform_many_nulls('int64', 'cummin')
+```
+
+</details>
+",
+https://api.github.com/repos/pandas-dev/pandas/issues/41848,https://api.github.com/repos/pandas-dev/pandas,https://api.github.com/repos/pandas-dev/pandas/issues/41848/labels{/name},https://api.github.com/repos/pandas-dev/pandas/issues/41848/comments,https://api.github.com/repos/pandas-dev/pandas/issues/41848/events,https://github.com/pandas-dev/pandas/issues/41848,913146594,MDU6SXNzdWU5MTMxNDY1OTQ=,41848,ENH: Specify how pandas infers dtype on objects,"{'login': 'mocquin', 'id': 36188368, 'node_id': 'MDQ6VXNlcjM2MTg4MzY4', 'avatar_url': 'https://avatars.githubusercontent.com/u/36188368?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/mocquin', 'html_url': 'https://github.com/mocquin', 'followers_url': 'https://api.github.com/users/mocquin/followers', 'following_url': 'https://api.github.com/users/mocquin/following{/other_user}', 'gists_url': 'https://api.github.com/users/mocquin/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/mocquin/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/mocquin/subscriptions', 'organizations_url': 'https://api.github.com/users/mocquin/orgs', 'repos_url': 'https://api.github.com/users/mocquin/repos', 'events_url': 'https://api.github.com/users/mocquin/events{/privacy}', 'received_events_url': 'https://api.github.com/users/mocquin/received_events', 'type': 'User', 'site_admin': False}","[{'id': 31404521, 'node_id': 'MDU6TGFiZWwzMTQwNDUyMQ==', 'url': 'https://api.github.com/repos/pandas-dev/pandas/labels/Dtypes', 'name': 'Dtypes', 'color': 'e102d8', 'default': False, 'description': None}, {'id': 76812, 'node_id': 'MDU6TGFiZWw3NjgxMg==', 'url': 'https://api.github.com/repos/pandas-dev/pandas/labels/Enhancement', 'name': 'Enhancement', 'color': '4E9A06', 'default': False, 'description': None}, {'id': 849023693, 'node_id': 'MDU6TGFiZWw4NDkwMjM2OTM=', 'url': 'https://api.github.com/repos/pandas-dev/pandas/labels/ExtensionArray', 'name': 'ExtensionArray', 'color': '6138b5', 'default': False, 'description': 'Extending pandas with custom dtypes or arrays.'}]",open,False,,[],,3,2021-06-07T06:18:40Z,2021-06-07T16:38:17Z,,NONE,,,"Hello there
+#### Is your feature request related to a problem?
+
+[this should provide a description of what the problem is, e.g. ""I wish I could use pandas to do [...]""]
+Context : I am creating a package to handle physical units (yes, another one), and I started working on the pandas interface implementation. I looked into pandas extension page, as well as what `pint` did with `pint-pandas`. I am pretty satisfied with the result, except for one thing : When creating pandas objects (Series of DataFrame), I have to explicitly specify what dtype (using my DtypeExtension for my ""Quantity"" class) pandas should use to cast my Quantity object to the correspond QuantityArrayExtension. Categorical objects kinda exhibit the same problem : 
+```python
+# create indeed a Categorical dtype
+s = pd.Series([""a"", ""b"", ""c"", ""a""], dtype=""category"")
+# use ""object"" as dtype
+pd.Series([""a"", ""b"", ""c"", ""a""])
+
+from physipy import m # import the ""meter"" object
+from physipy import QuantityDtype # import the DtypeExtension for Quantity object
+# create indeed a QuantityDtype serie
+s = pd.Series([1, 2, 3]*m, dtype=DtypeExtension)
+
+# casts into integers, dropping the ""unit"" (because bypasses my object by accessing its ""array"" value directly
+pd.Series([1, 2, 3]*m)
+```
+Now, I understand that for the Categorical example, it is not obvious what kind of dtype pandas should use, but for my custom class, I would like to be able to tell pandas how to behave.
+
+#### Describe the solution you'd like
+
+I would expect some interface like this :
+```python
+import pandas as pd
+from physipy import Quantity, QuantityDtype
+
+# tell pandas to use QuantityDtype when a Quantity object is passed
+pd.dtype_lut[Quantity] = QuantityDtype
+
+# then a series can be created directly 
+my_quantity_object = [1, 2, 3]*m # this is a Quantity object
+s = pd.Series(my_quantity_object)) # note the absence of dtype specification
+```
+Here, pandas admits it doesn't know the passed object's type, and so check in its `dtype_lut` if a corresponding dtype is set.
+
+
+Another interface would be to add a method, pandas-specifically named, to Quantity that does this look-up table : 
+
+```python
+# into my Quantity object
+class Quantity:
+    ....
+
+    def pd_dtype(self):
+        return QuantityDtype
+
+```
+so that when pandas encounters an unknown object type, it first tries to get its Dtype using ""obj.pd_type()""
+
+Cheers
+
+",
